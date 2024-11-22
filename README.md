@@ -6,9 +6,10 @@
     <th>DOWNLOAD LINK</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
