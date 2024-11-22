@@ -1,24 +1,22 @@
 <table>
-<tbody>
-<thead><tr><th>Extension Name</td><th>Download Link</td></tr></thead>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 
-<tr>
-<td>1. Dawn (Andrena)</td>
-<td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank">Dawn Download</a></td></tr>
+<font color="#ff0000"> Yazı rengi </font> 
 
-<tr>
-<td>2. Ay</td>
-<td>Şubat</td>
-</tr>
+<a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank">Dawn Download</a>
 
-<tr>
-<td>3. Ay</td>
-<td>Mart</td>
-</tr>
-
-<tr>
-<td>4. Ay</td>
-<td>Mart</td>
-</tr>
-</tbody>
-</table> 
