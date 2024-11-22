@@ -1,8 +1,9 @@
 <table>
   <tr>
     <th>EXTENSION NAME</th>
-    <th>DOWNLOAD LINK</th>
+    <th>PLATFORM</th>
     <th>REFERRAL COMISSION</th>
+    <th>DOWNLOAD LINK</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
