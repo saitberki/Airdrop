@@ -1,9 +1,11 @@
 <table>
 <thead
 <tr>
-<th>Extension Name</td>
-<th>Download Link</td>
-</tr>
+<th>Extension Name
+</td>
+<th>Download Link
+</td></tr>
+
 </thead>
 <tbody>
 <tr>
