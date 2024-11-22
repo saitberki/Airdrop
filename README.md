@@ -1,12 +1,4 @@
-<table>
-<thead>
-<tr>
-<th>Extension Name
-</td>
-<th>Download Link
-</td></tr>
-
-</thead>
+<table><thead><tr><th>Extension Name</td><th>Download Link</td></tr></thead>
 <tbody>
 <tr>
 <td>1. Dawn (Andrena)</td>
