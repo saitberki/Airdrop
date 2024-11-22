@@ -2,7 +2,7 @@
 <thead>
 <tr>
 <th>Extension Name</td>
-<th>Ay ismi</td>
+<th>Download Link</td>
 </tr>
 </thead>
 <tbody>
