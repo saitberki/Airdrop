@@ -1,10 +1,9 @@
-<h1>FREE AIRDROP POINTS WITH CHROME EXTENSIONS</h1>
 <table border=”2″>
 <tr>
 <th>BİLİŞİM</th>
 <th>TEKNOLOJİLERİ</th>
 </tr>
-<tbody>html_de_tablolar_4
+<tbody><h1>FREE AIRDROP POINTS WITH CHROME EXTENSIONS</h1>
 <tr>
 <td>WEB TASARIMI</td>
 <td>WEB TASARIMI</td>
