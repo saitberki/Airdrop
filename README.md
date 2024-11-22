@@ -12,7 +12,7 @@
     <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank">Dawn Download</a></td>
   </tr>
   <tr>
-    <td>Oasis.oi</td>
+    <td>Oasis AI</td>
     <td>Google Chrome</td>
     <td>%10</td>
     <td><a href="https://r.oasis.ai/saitberki" target="_blank">Oasis Download</a></td>
