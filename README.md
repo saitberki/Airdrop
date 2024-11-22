@@ -1,5 +1,5 @@
 <table>
-<thead
+<thead>
 <tr>
 <th>Extension Name
 </td>
