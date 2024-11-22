@@ -14,7 +14,7 @@
   <tr>
     <td>Oasis.oi</td>
     <td>Google Chrome</td>
-    <td>%20</td>
+    <td>%10</td>
     <td><a href="https://r.oasis.ai/saitberki" target="_blank">Oasis Download</a></td>
   </tr>
 </table>
