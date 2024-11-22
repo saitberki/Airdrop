@@ -1,3 +1,4 @@
+<h1>EARN FREE AIRDROP POINT WITH CHROME EXTENSION</h1>
 <table>
   <tr>
     <th>EXTENSION NAME</th>
