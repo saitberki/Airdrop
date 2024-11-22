@@ -8,7 +8,8 @@
 <tbody>
 <tr>
 <td>1. Dawn (Andrena)</td>
-<td><a href="[http://sitesi.web.tr/](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp)" target="_blank">Dawn Download</a></td>
+<td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank">Dawn Download</a>
+</td>
 </tr>
 <tr>
 <td>2. Ay</td>
