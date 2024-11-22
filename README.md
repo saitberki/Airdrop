@@ -8,7 +8,7 @@
   <tr>
     <td>Dawn (Andrena)</td>
     <td>Google Chrome</td>
-    <td>%20 - Code: 0l65k987</td>
+    <td><font color="#3cb371"> %20 Code: 0l65k987 </font></td>
     <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank">Dawn Download</a></td>
   </tr>
   <tr>
@@ -19,4 +19,4 @@
   </tr>
 </table>
 
-<font color="#ff0000"> Yazı rengi </font> 
+<font color="#3cb371"> Yazı rengi </font> 
