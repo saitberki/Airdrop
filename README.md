@@ -14,9 +14,7 @@
   <tr>
     <td>Oasis AI</td>
     <td>Google Chrome</td>
-    <td>%10</td>
+    <td><font color="#3cb371"> %10 </font> </td>
     <td><a href="https://r.oasis.ai/saitberki" target="_blank">Oasis Download</a></td>
   </tr>
 </table>
-
-<font color="#3cb371"> Yazı rengi </font> 
