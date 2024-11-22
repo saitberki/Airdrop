@@ -1,7 +1,7 @@
 <table>
 <thead>
 <tr>
-<th>Ay Sırası</td>
+<th>Extension Name</td>
 <th>Ay ismi</td>
 </tr>
 </thead>
