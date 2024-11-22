@@ -9,7 +9,7 @@
   </tr>
   
   <tr>
-    <td>#1.Dawn (Andrena)</td>
+    <td>#1. Dawn (Andrena)</td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %20 Code: 0l65k987 </font></td>
@@ -17,7 +17,7 @@
   </tr>
   
   <tr>
-    <td>Oasis AI</td>
+    <td>#2. Oasis AI</td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %10 </font> </td>
@@ -25,7 +25,7 @@
   </tr>
   
   <tr>
-    <td>Grass</td>
+    <td>#3. Grass</td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> Level Method </font> </td>
