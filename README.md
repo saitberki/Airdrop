@@ -20,6 +20,3 @@
 </table>
 
 <font color="#ff0000"> Yazı rengi </font> 
-
-<a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank">Dawn Download</a>
-
