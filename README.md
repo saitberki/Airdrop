@@ -21,7 +21,7 @@
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %10 </font> </td>
-    <td><a href="https://r.oasis.ai/saitberki" target="_blank">Oasis Download</a></td>  
+    <td><a href="https://r.oasis.ai/saitberki" target="_blank"><u>Oasis Download</u></a></td>  
   </tr>
   
   <tr>
@@ -29,7 +29,7 @@
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> Level Method </font> </td>
-    <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank">Grass Download</a></td>
+    <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u>Grass Download</u></a></td>
   </tr>
 
   
