@@ -1,16 +1,30 @@
-<table border=”2″>
-<tr>
-<th>BİLİŞİM</th>
-<th>TEKNOLOJİLERİ</th>
-</tr>
-<tbody>
-<tr>
-<td>WEB TASARIMI</td>
-<td>WEB TASARIMI</td>
-</tr>
-<tr>
-<td>WEB TASARIMI</td>
-<td>WEB TASARIMI</td>
-</tr>
-</tbody>
-</table>
+<html>
+ <body>
+<table>
+    <thead>
+        <tr>
+            <th>Ay Sırası</td>
+            <th>Ay ismi</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Ay</td>
+            <td>Ocak</td>
+        </tr>
+        <tr>
+            <td>2. Ay</td>
+            <td>Şubat</td>
+        </tr>
+        <tr>
+            <td>3. Ay</td>
+            <td>Mart</td>
+        </tr>
+        <tr>
+            <td>4. Ay</td>
+            <td>Mart</td>
+        </tr>
+    </tbody>
+</table> 
+ </body>
+</html>
