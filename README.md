@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>EXTENSION NAME</th>
+    <th>DOWNLOAD LINK</th>
+    <th>REF.COMISSION</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
