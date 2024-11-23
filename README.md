@@ -1,5 +1,5 @@
 <center><a href="#"><img src="https://github.com/saitberki/Earn-Free-Airdrop-Points-With-Chrome-Extensions/blob/main/Extensions.png?raw=true" alt="Extension Screenshot" /></a></center>
-
+<hr>
 <center><table style="width:80%; text-align:left;">
   <tr>
     <th>EXTENSION NAME</th>
