@@ -67,5 +67,7 @@
 <h2># What is Airdrop</h2>
 <h4>An airdrop is the distribution of a cryptocurrency token or currency, usually for free, to a large number of digital wallets. Airdrops are primarily implemented as a way to gain attention and new followers, resulting in a larger user base and wider currency usage. AirDrop uses TLS encryption over a direct Apple-created peer-to-peer Wi-Fi connection for transferring files. The Wi-Fi radios of the source and target devices communicate directly without using an Internet connection or Wi-Fi Access Point. The technical details of AirDrop and the proprietary peer-to-peer Wi-Fi protocol called Apple Wireless Direct Link (AWDL) have been reverse engineered and the resulting open source implementations published as OWL and OpenDrop.</h4>
 
+<a href="#"><img src="html.jpg" alt="Örnek Resim" /></a>
+
 <h2># Statement</h2>
 <h4>These are applications that are completely for informational purposes and allow you to earn Airdrop for free without investing. Since the Airdrop distribution is limited, download the applications for free and start earning immediately... Good Earnings...</h4>
