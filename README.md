@@ -40,5 +40,4 @@
     <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u>Nodepay Download</u></a></td>
   </tr>
 
-  
 </table>
