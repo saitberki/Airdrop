@@ -1,4 +1,6 @@
 <h2># Earn Free Airdrop Points With Chrome Extensions</h2>
+<h2># What is Airdrop</h2>
+</h3>An airdrop is the distribution of a cryptocurrency token or currency, usually for free, to a large number of digital wallets. Airdrops are primarily implemented as a way to gain attention and new followers, resulting in a larger user base and wider currency usage.</h3>
 
 <table style="width:80%; text-align:left;">
   <tr>
