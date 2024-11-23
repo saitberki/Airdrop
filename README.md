@@ -1,5 +1,3 @@
-<h2># Earn Free Airdrop Points With Chrome Extensions</h2>
-
 <center><table style="width:80%; text-align:left;">
   <tr>
     <th>EXTENSION NAME</th>
