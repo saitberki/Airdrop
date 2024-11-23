@@ -53,8 +53,14 @@
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %10 </font> </td>
-    <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Gradient Download</u></a></td>
+    <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Bless Download</u></a></td>
   </tr>
 
-
+  <tr>
+    <td>#7. Kaisar (Zero)</td>
+    <td>Google Chrome</td>
+    <td>Validator</td>
+    <td><font color="#3cb371"> %10 + 1 Ticked </font> </td>
+    <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u>Kaisar Download</u></a></td>
+  </tr>
 </table>
