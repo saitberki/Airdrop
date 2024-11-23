@@ -32,12 +32,21 @@
     <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u>Grass Download</u></a></td>
   </tr>
 
-    <tr>
+  <tr>
     <td>#4. Nodepay</td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> 100 Point + Level </font> </td>
     <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u>Nodepay Download</u></a></td>
   </tr>
+
+  <tr>
+    <td>#5. Gradient</td>
+    <td>Google Chrome</td>
+    <td>Validator</td>
+    <td><font color="#3cb371"> +5000 Exp </font> </td>
+    <td><a href="https://app.gradient.network/signup?code=AHHXL2" target="_blank"><u>Gradient Download</u></a></td>
+  </tr>
+
 
 </table>
