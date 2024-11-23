@@ -9,15 +9,15 @@
   </tr>
   
   <tr>
-    <td> <font color="#ff0000"> #1. Dawn (Andrena) </font> </td>
+    <td><font color="#ff0000"> #1. Dawn (Andrena) </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
-    <td><font color="#3cb371"> %20 Code: 0l65k987 </font></td>
+    <td><font color="#3cb371"> %20 Code: 0l65k987 </font> </td>
     <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank"><u>Dawn Download</u></a></td> 
   </tr>
   
   <tr>
-    <td> <font color="#ff0000"> #2. Oasis AI </font> </td>
+    <td><font color="#ff0000"> #2. Oasis AI </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %10 </font></td>
@@ -25,7 +25,7 @@
   </tr>
   
   <tr>
-    <td> <font color="#ff0000"> #3. Grass </font> </td>
+    <td><font color="#ff0000"> #3. Grass </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> Level Method </font></td>
@@ -33,7 +33,7 @@
   </tr>
 
   <tr>
-    <td> <font color="#ff0000"> #4. Nodepay </font> </td>
+    <td><font color="#ff0000"> #4. Nodepay </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> +100 Point + Level </font> </td>
@@ -41,7 +41,7 @@
   </tr>
 
   <tr>
-    <td> <font color="#ff0000"> #5. Gradient </font> </td>
+    <td><font color="#ff0000"> #5. Gradient </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> 10ref. +5000 Exp </font> </td>
@@ -49,7 +49,7 @@
   </tr>
   
   <tr>
-    <td> <font color="#ff0000"> #6. Bless </font> </td>
+    <td><font color="#ff0000"> #6. Bless </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %10 </font> </td>
@@ -57,12 +57,13 @@
   </tr>
 
   <tr>
-    <td> <font color="#ff0000"> #7. Kaisar (Zero) </font> </td>
+    <td><font color="#ff0000"> #7. Kaisar (Zero) </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %10 + 1 Ticked </font> </td>
     <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u>Kaisar Download</u></a></td>
   </tr>
+  
 </table>
 
 <h1># Statement</h1>
