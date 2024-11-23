@@ -69,6 +69,9 @@
   </tr>
 </table></center>
 
+<h2>#How Do Plugins Work?</h2>
+<h5></h5>
+  
 <h2># What is Airdrop</h2>
 <h4>An airdrop is the distribution of a cryptocurrency token or currency, usually for free, to a large number of digital wallets. Airdrops are primarily implemented as a way to gain attention and new followers, resulting in a larger user base and wider currency usage. AirDrop uses TLS encryption over a direct Apple-created peer-to-peer Wi-Fi connection for transferring files. The Wi-Fi radios of the source and target devices communicate directly without using an Internet connection or Wi-Fi Access Point. The technical details of AirDrop and the proprietary peer-to-peer Wi-Fi protocol called Apple Wireless Direct Link (AWDL) have been reverse engineered and the resulting open source implementations published as OWL and OpenDrop.</h4>
 
