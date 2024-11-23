@@ -63,7 +63,6 @@
     <td><font color="#3cb371"> %10 + 1 Ticked </font> </td>
     <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u>Kaisar Download</u></a></td>
   </tr>
-  
 </table>
 
 <h1># Statement</h1>
