@@ -17,7 +17,7 @@
   </tr>
   
   <tr>
-    <td>#2. Oasis AI</td>
+    <td><img src="https://github.com/saitberki/FreeAirdropPoints/blob/main/Oasis%20Icon.png?raw=true" alt=""/></td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %10 </font> </td>
