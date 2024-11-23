@@ -9,7 +9,7 @@
   </tr>
   
   <tr>
-    <td>#1. Dawn (Andrena)</td>
+    <td><img src="[ornek.jpg](https://github.com/saitberki/FreeAirdropPoints/blob/main/Dawn%20Icon.png?raw=true)" alt=""/></td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %20 Code: 0l65k987 </font></td>
