@@ -1,6 +1,7 @@
 <center><h1>EXTENSION SCREENSHOT</h1>
 <center><a href="#"><img src="https://github.com/saitberki/Earn-Free-Airdrop-Points-With-Chrome-Extensions/blob/main/Extensions.png?raw=true" alt="Extension Screenshot" /></a></center>
 <hr>
+<center><h1>Currently Active Airdrop Earning Plugins (23.11.2024)</center></h1>
 <center><table style="width:80%; text-align:left;">
   <tr>
     <th>EXTENSION NAME</th>
