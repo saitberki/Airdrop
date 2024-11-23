@@ -69,7 +69,7 @@
   </tr>
 </table></center>
 
-<h2>#How do Plugins Work?</h2>
+<h2># How Do Plugins Work?</h2>
 <h5></h5>
   
 <h2># Statement</h2>
