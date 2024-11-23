@@ -64,3 +64,5 @@
     <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u>Kaisar Download</u></a></td>
   </tr>
 </table>
+
+<h1>Statement</h1>
