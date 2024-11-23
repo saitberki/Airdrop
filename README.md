@@ -1,4 +1,14 @@
 <h2># Earn Free Airdrop Points With Chrome Extensions</h2>
+
+<table style="width:75%; text-align:left;">
+  <tr>
+    <th>EXTENSION NAME</th>
+    <th>PLATFORM</th>
+    <th>WORK TYPE</th>
+    <th>REFERRAL COMISSION</th>
+    <th>DOWNLOAD LINK</th>
+  </tr>
+    
 <table>
   <tr>
     <th>EXTENSION NAME</th>
