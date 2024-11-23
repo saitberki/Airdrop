@@ -74,4 +74,4 @@
 <h4>The technical details of AirDrop and the proprietary peer-to-peer Wi-Fi protocol called Apple Wireless Direct Link (AWDL) have been reverse engineered and the resulting open source implementations published as OWL and OpenDrop.</h4></center>
 
 <h2># Statement</h2>
-<center><h4>These are applications that are completely for informational purposes and allow you to earn Airdrop for free without investing... Good Earnings...</h4></center>
+<center><h4>These are applications that are completely for informational purposes and allow you to earn Airdrop for free without investing...... Good Earnings...</h4></center>
