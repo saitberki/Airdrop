@@ -67,3 +67,4 @@
 </table>
 
 <h2># Statement</h2>
+<h2><b>These are applications that are completely for informational purposes and allow you to earn Airdrop for free without investing... Good Earnings...</b></h2>
