@@ -1,12 +1,4 @@
 <h2># Earn Free Airdrop Points With Chrome Extensions</h2>
-<h2># What is Airdrop</h2>
-<h3>An airdrop is the distribution of a cryptocurrency token or currency, usually for free, to a large number of digital wallets. Airdrops are primarily implemented as a way to gain attention and new followers, resulting in a larger user base and wider currency usage.</h3>
-
-<h3>AirDrop uses TLS encryption over a direct Apple-created peer-to-peer Wi-Fi connection for transferring files. The Wi-Fi radios of the source and target devices communicate directly without using an Internet connection or Wi-Fi Access Point.</h3>
-
-<h3>The technical details of AirDrop and the proprietary peer-to-peer Wi-Fi protocol called Apple Wireless Direct Link (AWDL) have been reverse engineered and the resulting open source implementations published as OWL and OpenDrop.</h3>
-</h3>
-<hr>
 
 <table style="width:80%; text-align:left;">
   <tr>
@@ -73,6 +65,15 @@
     <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u>Kaisar Download</u></a></td>
   </tr>
 </table>
+
+<h2># What is Airdrop</h2>
+<h3>An airdrop is the distribution of a cryptocurrency token or currency, usually for free, to a large number of digital wallets. Airdrops are primarily implemented as a way to gain attention and new followers, resulting in a larger user base and wider currency usage.</h3>
+
+<h3>AirDrop uses TLS encryption over a direct Apple-created peer-to-peer Wi-Fi connection for transferring files. The Wi-Fi radios of the source and target devices communicate directly without using an Internet connection or Wi-Fi Access Point.</h3>
+
+<h3>The technical details of AirDrop and the proprietary peer-to-peer Wi-Fi protocol called Apple Wireless Direct Link (AWDL) have been reverse engineered and the resulting open source implementations published as OWL and OpenDrop.</h3>
+</h3>
+<hr>
 
 <h2># Statement</h2>
 <h3>These are applications that are completely for informational purposes and allow you to earn Airdrop for free without investing... Good Earnings...</h3>
