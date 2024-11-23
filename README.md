@@ -1,4 +1,4 @@
-<h1># EARN FREE AIRDROP POINT WITH CHROME EXTENSION</h1>
+<h1># Earn Free Airdrop points With Chrome Extensions</h1>
 <table>
   <tr>
     <th>EXTENSION NAME
@@ -65,4 +65,4 @@
   </tr>
 </table>
 
-<h1># STATEMENT</h1>
+<h1># Statement</h1>
