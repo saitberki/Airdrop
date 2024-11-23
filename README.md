@@ -9,15 +9,6 @@
     <th>DOWNLOAD LINK</th>
   </tr>
     
-<table>
-  <tr>
-    <th>EXTENSION NAME</th>
-    <th>PLATFORM</th>
-    <th>WORK TYPE</th>
-    <th>REFERRAL COMISSION</th>
-    <th>DOWNLOAD LINK</th>
-  </tr>
-  
   <tr>
     <td><font color="#ff0000"> #1. Dawn (Andrena) </font> </td>
     <td>Google Chrome</td>
