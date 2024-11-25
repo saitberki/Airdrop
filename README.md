@@ -77,5 +77,6 @@
 - <b>5.</b> Finally, The Add-On Works Silently In The Background And Earns Points. It Does Not Strain Your Computer. Good Earnings...)))
   
 <h2># Statement</h2>
-- <h5>These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing.</h5>
-- <h5>Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately... Good Earnings...</h5>
+- These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing.
+- Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately.
+- Good Earnings...
