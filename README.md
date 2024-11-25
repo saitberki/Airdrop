@@ -1,4 +1,3 @@
-<center><h2>Chrome Extension Screenshot</h2></center>
 <center><a href="#"><img src="https://github.com/saitberki/Earn-Free-Airdrop-Points-With-Chrome-Extensions/blob/main/Extensions.png?raw=true" target="_blank"></a></center>
 
 <h2># How Do Plugins Work?</h2>
