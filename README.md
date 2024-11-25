@@ -6,7 +6,9 @@
 - Download The Plugin And Wait For It To Install,
 - Go Through The Registration Steps With Your Email Address,
 - Go To Your Dashboard And Complete The Tasks To Earn Extra Points.
-- Finally, The Add-On Works Silently In The Background And Earns Points. It Does Not Strain Your Computer. Good Earnings...)))
+- Connect Your Discord and Twitter Accounts for a Quick Start!!! Earns Extra Points!!
+- Finally, The Add-On Works Silently In The Background And Earns Points. It Does Not Strain Your Computer.
+- Good Earnings...)))
 
 <h2>Currently Active '7' Airdrop Earning Plugins (23.11.2024)</h2>
 
