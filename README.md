@@ -5,7 +5,7 @@
 - Download The Plugin And Wait For It To Install,
 - Go Through The Registration Steps With Your Email Address,
 - Go To Your Dashboard And Complete The Tasks To Earn Extra Points.
-- Connect Your Discord and Twitter Accounts for a Quick Start!!! Earns Extra Points!!
+- Connect Your Discord and Twitter (X) Accounts For a Quick Start!!! Earns Extra Points!!
 - Finally, The Add-On Works Silently In The Background And Earns Points. It Does Not Strain Your Computer.
 - Good Earnings...)))
 
