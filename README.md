@@ -70,7 +70,12 @@
 </table></center>
 
 <h2># How Do Plugins Work?</h2>
-<h5></h5>
+<h5>1. Click on the Plugin's Referral Link</h5>
+<h5>2. Download the Plugin and Wait for It to Install</h5>
+<h5>3. Go Through The Registration Steps With Your Email Address</h5>
+<h5>4. Go to your Dashboard and Complete the Tasks to Earn Extra Points.</h5>
+<h5>5. Finally, The Add-On Works Silently In The Background And Earns Points. It Does Not Strain Your Computer..</h5>
+<h5>Good Earnings...)))</h5>
   
 <h2># Statement</h2>
 <h4>These are applications that are completely for informational purposes and allow you to earn Airdrop for free without investing. Since the Airdrop distribution is limited, download the applications for free and start earning immediately... Good Earnings...</h4>
