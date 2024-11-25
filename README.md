@@ -70,10 +70,10 @@
 </table></center>
 
 <h2># How Do Plugins Work?</h2>
-- <b>1.</b> Click on the Plugin's Referral Link,
-- <b>2.</b> Download the Plugin and Wait for It to Install,
+- <b>1.</b> Click On The Plugin's Referral Link,
+- <b>2.</b> Download The Plugin And Wait For It To Install,
 - <b>3.</b> Go Through The Registration Steps With Your Email Address,
-- <b>4.</b> Go to your Dashboard and Complete the Tasks to Earn Extra Points.
+- <b>4.</b> Go To Your Dashboard And Complete The Tasks To Earn Extra Points.
 - <b>5.</b> Finally, The Add-On Works Silently In The Background And Earns Points. It Does Not Strain Your Computer. Good Earnings...)))
   
 <h2># Statement</h2>
