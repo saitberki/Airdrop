@@ -1,6 +1,13 @@
 <center><h2>Chrome Extension Screenshot</h2></center>
 <center><a href="#"><img src="https://github.com/saitberki/Earn-Free-Airdrop-Points-With-Chrome-Extensions/blob/main/Extensions.png?raw=true" target="_blank"></a></center>
 
+<h2># How Do Plugins Work?</h2>
+- Click On The Plugin's Referral Link,
+- Download The Plugin And Wait For It To Install,
+- Go Through The Registration Steps With Your Email Address,
+- Go To Your Dashboard And Complete The Tasks To Earn Extra Points.
+- Finally, The Add-On Works Silently In The Background And Earns Points. It Does Not Strain Your Computer. Good Earnings...)))
+
 <center><h2>Currently Active '7' Airdrop Earning Plugins (23.11.2024)</h2></center>
 
 <center><table style="width:80%; text-align:left;">
@@ -69,13 +76,6 @@
   </tr>
 </table></center>
 
-<h2># How Do Plugins Work?</h2>
-- Click On The Plugin's Referral Link,
-- Download The Plugin And Wait For It To Install,
-- Go Through The Registration Steps With Your Email Address,
-- Go To Your Dashboard And Complete The Tasks To Earn Extra Points.
-- Finally, The Add-On Works Silently In The Background And Earns Points. It Does Not Strain Your Computer. Good Earnings...)))
-  
 <h2># Statement</h2>
 - These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing.
 - Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately.
