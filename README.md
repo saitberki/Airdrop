@@ -53,7 +53,7 @@
   </tr>
   
   <tr>
-    <td><font color="#ff0000"> #6. Kaisar </font> </td>
+    <td><font color="#ff0000"> #6. Kaisar (Zero) </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %10 + 1 Ticked </font> </td>
@@ -61,7 +61,7 @@
   </tr>
 
   <tr>
-    <td><font color="#ff0000"> #7. Bless (Zero) </font> </td>
+    <td><font color="#ff0000"> #7. Bless </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %10 </font> </td>
