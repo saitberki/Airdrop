@@ -1,7 +1,7 @@
 <center><h2>Chrome Extension Screenshot</h2></center>
 <center><a href="#"><img src="https://github.com/saitberki/Earn-Free-Airdrop-Points-With-Chrome-Extensions/blob/main/Extensions.png?raw=true" target="_blank"></a></center>
 
-<center><h2>Currently Active Airdrop Earning Plugins (23.11.2024)</h2></center>
+<center><h2>Currently Active '7' Airdrop Earning Plugins (23.11.2024)</h2></center>
 
 <center><table style="width:80%; text-align:left;">
   <tr>
