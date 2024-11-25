@@ -70,7 +70,7 @@
 </table></center>
 
 <h2># How Do Plugins Work?</h2>
-<h5><b>1.</b> Click on the Plugin's Referral Link,</h5>
+-  <b>1.</b> Click on the Plugin's Referral Link,
 <h5><b>2.</b> Download the Plugin and Wait for It to Install,</h5>
 <h5><b>3.</b> Go Through The Registration Steps With Your Email Address,</h5>
 <h5><b>4.</b> Go to your Dashboard and Complete the Tasks to Earn Extra Points.</h5>
