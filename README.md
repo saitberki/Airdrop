@@ -8,9 +8,9 @@
 - Go To Your Dashboard And Complete The Tasks To Earn Extra Points.
 - Finally, The Add-On Works Silently In The Background And Earns Points. It Does Not Strain Your Computer. Good Earnings...)))
 
-<center><h2>Currently Active '7' Airdrop Earning Plugins (23.11.2024)</h2></center>
+<h2>Currently Active '7' Airdrop Earning Plugins (23.11.2024)</h2>
 
-<center><table style="width:80%; text-align:left;">
+<table style="width:80%; text-align:left;">
   <tr>
     <th>EXTENSION NAME</th>
     <th>PLATFORM</th>
@@ -74,7 +74,7 @@
     <td><font color="#3cb371"> %10 </font> </td>
     <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Bless Download</u></a></td>
   </tr>
-</table></center>
+</table>
 
 <h2># Statement</h2>
 - These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing.
