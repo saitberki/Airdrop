@@ -1,13 +1,13 @@
 <center><a href="#"><img src="https://github.com/saitberki/Earn-Free-Airdrop-Points-With-Chrome-Extensions/blob/main/Extensions.png?raw=true" target="_blank"></a></center>
 
 <h2># How Do Plugins Work?</h2>
-- Click On The Plugin's Referral Link,
-- Download The Plugin And Wait For It To Install,
-- Go Through The Registration Steps With Your Email Address,
-- Go To Your Dashboard And Complete The Tasks To Earn Extra Points.
-- Connect Your Discord and Twitter (X) Accounts For a Quick Start!!! Earns Extra Points!!
-- Finally, The Add-On Works Silently In The Background And Earns Points. It Does Not Strain Your Computer.
-- Good Earnings...)))
+- <b>Click</b> On The Plugin's <b>Referral Link,</b>
+- <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b>
+- Go Through The Registration Steps With Your <b>Email Address,</b>
+- Go To Your <b>Dashboard</b> And Complete The Tasks To Earn <b>Extra Points,</b>
+- Connect Your <b>Discord</b> and <b>Twitter (X)</b> Accounts For a Quick Start!!! <b>Earns Extra Points!</b>
+- <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer.</b>
+- <b>Good Earnings...)))</b>
 
 <h2>Currently Active '7' Airdrop Earning Plugins (23.11.2024)</h2>
 
