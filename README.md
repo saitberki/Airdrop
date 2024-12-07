@@ -7,7 +7,7 @@
 - <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer.</b>
 - <b>Good Earnings...)))</b>
 
-<h2># Currently Active '7' Airdrop Earning Plugins (23.11.2024)</h2>
+<h2># Currently Active '9' Airdrop Earning Plugins (23.11.2024)</h2>
 
 <table style="width:80%; text-align:left;">
   <tr>
