@@ -75,6 +75,23 @@
     <td><font color="#3cb371"> %10 </font> </td>
     <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Bless Download</u></a></td>
   </tr>
+
+  <tr>
+    <td><font color="#ff0000"> #8. MeshNode </font> </td>
+    <td>Google Chrome</td>
+    <td>Validator</td>
+    <td><font color="#3cb371"> %20 </font> </td>
+    <td><a href="https://app.meshchain.ai?ref=KCXM6R5TDV3M" target="_blank"><u>MeshNode Download</u></a></td> 
+  </tr>
+
+    <tr>
+    <td><font color="#ff0000"> #9. OpenLoop </font> </td>
+    <td>Google Chrome</td>
+    <td>Validator</td>
+    <td><font color="#3cb371"> %20 Code: ol66edfc2f </font> </td>
+    <td><a href="https://play.google.com/store/apps/details/OpenLoop?id=nz.co.openloop.mobile.production&hl=tr&pli=1" target="_blank"><u>OpenLoop Download</u></a></td> 
+  </tr>
+  
 </table>
 
 <h2># Statement</h2>
