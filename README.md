@@ -1,5 +1,3 @@
-<center><a href="#"><img src="https://github.com/saitberki/Earn-Free-Airdrop-Points-With-Chrome-Extensions/blob/main/Extensions.png?raw=true" target="_blank"></a></center>
-
 <h2># How Do Plugins Work?</h2>
 - <b>Click</b> On The Plugin's <b>Referral Link,</b>
 - <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b>
