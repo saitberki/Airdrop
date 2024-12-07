@@ -89,7 +89,7 @@
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %20 Code: ol66edfc2f </font> </td>
-    <td><a href="https://play.google.com/store/apps/details/OpenLoop?id=nz.co.openloop.mobile.production&hl=tr&pli=1" target="_blank"><u>OpenLoop Download</u></a></td> 
+    <td><a href="https://chromewebstore.google.com/detail/openloopso-sentry-node-ex/effapmdildnpkiaeghlkicpfflpiambm" target="_blank"><u>OpenLoop Download</u></a></td> 
   </tr>
   
 </table>
