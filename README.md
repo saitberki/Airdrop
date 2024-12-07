@@ -9,7 +9,7 @@
 
 <h2># Currently Active '9' Airdrop Earning Plugins (23.11.2024)</h2>
 
-<table style="width:80%; text-align:left;">
+<table style="width:85%; text-align:left;">
   <tr>
     <th>EXTENSION NAME</th>
     <th>PLATFORM</th>
@@ -19,7 +19,7 @@
   </tr>
     
   <tr>
-    <td><font color="#ff0000"> #1. Dawn (Andrena) </font> </td>
+    <td><font color="#ff0000"> #1. Dawn </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %20 Code: 0l65k987 </font> </td>
