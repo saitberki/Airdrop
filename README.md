@@ -9,8 +9,6 @@
 - <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer.</b>
 - <b>Good Earnings...)))</b>
 
-<iframe data-aa='2367470' src='//ad.a-ads.com/2367470?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-
 <h2># Currently Active '7' Airdrop Earning Plugins (23.11.2024)</h2>
 
 <table style="width:80%; text-align:left;">
@@ -78,8 +76,6 @@
     <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Bless Download</u></a></td>
   </tr>
 </table>
-
-<iframe data-aa='2367470' src='//ad.a-ads.com/2367470?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
 
 <h2># Statement</h2>
 - These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing.
