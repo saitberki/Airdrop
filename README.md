@@ -84,7 +84,7 @@
     <td><a href="https://app.meshchain.ai?ref=KCXM6R5TDV3M" target="_blank"><u>MeshNode Download</u></a></td> 
   </tr>
 
-    <tr>
+  <tr>
     <td><font color="#ff0000"> #9. OpenLoop </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
