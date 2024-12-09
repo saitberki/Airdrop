@@ -1,4 +1,4 @@
-<h2># Currently Active '9' Airdrop Earning Plugins (23.11.2024)</h2>
+<h2># Currently Active '9' Airdrop Earning Plugins (10.12.2024)</h2>
 
 <table style="width:85%; text-align:left;">
   <tr>
