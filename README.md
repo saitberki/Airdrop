@@ -1,12 +1,3 @@
-<h2># How Do Plugins Work?</h2>
-- <b>Click</b> On The Plugin's <b>Referral Link,</b>
-- <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b>
-- Go Through The Registration Steps With Your <b>Email Address,</b>
-- Go To Your <b>Dashboard</b> And Complete The Tasks To Earn <b>Extra Points,</b>
-- Connect Your <b>Discord</b> and <b>Twitter (X)</b> Accounts For a Quick Start!!! <b>Earns Extra Points!</b>
-- <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer.</b>
-- <b>Good Earnings...)))</b>
-
 <h2># Currently Active '9' Airdrop Earning Plugins (23.11.2024)</h2>
 
 <table style="width:85%; text-align:left;">
@@ -90,6 +81,15 @@
     <td><a href="https://chromewebstore.google.com/detail/openloopso-sentry-node-ex/effapmdildnpkiaeghlkicpfflpiambm" target="_blank"><u>OpenLoop Download</u></a></td> 
   </tr> 
 </table>
+
+<h2># How Do Plugins Work?</h2>
+- <b>Click</b> On The Plugin's <b>Referral Link,</b>
+- <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b>
+- Go Through The Registration Steps With Your <b>Email Address,</b>
+- Go To Your <b>Dashboard</b> And Complete The Tasks To Earn <b>Extra Points,</b>
+- Connect Your <b>Discord</b> and <b>Twitter (X)</b> Accounts For a Quick Start!!! <b>Earns Extra Points!</b>
+- <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer.</b>
+- <b>Good Earnings...)))</b>
 
 <h2># Statement</h2>
 - These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing.
