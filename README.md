@@ -87,7 +87,7 @@
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> Code: oprax4 </font> </td>
-    <td><a href="https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp" target="_blank"><u>OpenLoop Download</u></a></td> 
+    <td><a href="https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp" target="_blank"><u>BlockMesh Download</u></a></td> 
   </tr> 
 </table>
 </center>
