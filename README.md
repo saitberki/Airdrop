@@ -92,15 +92,24 @@
 </table>
 </center>
 
-<h2># How Do Plugins Work?</h2>
-- <b>Click</b> On The Plugin's <b>Referral Link,</b>
-- <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b>
-- Go Through The Registration Steps With Your <b>Email Address,</b>
-- Go To Your <b>Dashboard</b> And Complete The Tasks To Earn <b>Extra Points,</b>
-- Connect Your <b>Discord</b> and <b>Twitter (X)</b> Accounts For a Quick Start!!! <b>Earns Extra Points!</b>
-- <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer.</b>
-- <b>Good Earnings...)))</b>
-
+<center>
+<table style="width:85%; text-align:left;">
+  <tr>
+    <th><h2># How Do Plugins Work?</h2></th>
+  </tr>
+    
+  <tr>
+    <td> <b>Click</b> On The Plugin's <b>Referral Link,</b> </td>
+    <td> <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b> </td>
+    <td> Go Through The Registration Steps With Your <b>Email Address,</b> </td>
+    <td> Go To Your <b>Dashboard</b> And Complete The Tasks To Earn <b>Extra Points,</b> </td>
+    <td> Connect Your <b>Discord</b> and <b>Twitter (X)</b> Accounts For a Quick Start!!! <b>Earns Extra Points!</b> </td>
+    <td> <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer.</b> </td>
+    <td> <b>Good Earnings...)))</b> </td>
+  </tr>
+</table>
+</center>
+  
 <h2># Statement</h2>
 - These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing.
 - Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately.
