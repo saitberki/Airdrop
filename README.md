@@ -100,6 +100,8 @@
     
   <tr>
     <td> <b>Click</b> On The Plugin's <b>Referral Link,</b> </td>
+  </tr>
+  
     <td> <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b> </td>
     <td> Go Through The Registration Steps With Your <b>Email Address,</b> </td>
     <td> Go To Your <b>Dashboard</b> And Complete The Tasks To Earn <b>Extra Points,</b> </td>
