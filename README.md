@@ -129,6 +129,10 @@
 </center>
 
 <center>
+<img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/Extensions.png?raw=true" alt="Örnek Resim"/>
+</center>
+
+<center>
 <table style="width:85%; text-align:left;">
   <tr>
     <th><center><h2># STATEMENT</h2></center></th>
