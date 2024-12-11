@@ -1,4 +1,4 @@
-<h2># Currently Active '9' Airdrop Earning Plugins (10.12.2024)</h2>
+<h2># Currently Active '10' Airdrop Earning Plugins (10.12.2024)</h2>
 
 <table style="width:85%; text-align:left;">
   <tr>
@@ -82,7 +82,7 @@
   </tr> 
 
   <tr>
-    <td><font color="#ff0000"> #9. BlockMesh </font> </td>
+    <td><font color="#ff0000"> #10. BlockMesh </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> Code: oprax4 </font> </td>
