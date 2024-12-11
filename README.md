@@ -1,5 +1,6 @@
 <center><h2># CURRENTLY ACTIVE '10' AIRDROP EARNING EXTENSION (10.12.2024) #</h2></center>
 
+<center>
 <table style="width:85%; text-align:left;">
   <tr>
     <th>EXTENSION NAME</th>
@@ -89,6 +90,7 @@
     <td><a href="https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp" target="_blank"><u>OpenLoop Download</u></a></td> 
   </tr> 
 </table>
+</center>
 
 <h2># How Do Plugins Work?</h2>
 - <b>Click</b> On The Plugin's <b>Referral Link,</b>
