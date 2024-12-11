@@ -145,4 +145,4 @@
 </center>
 
 <hr>
-<center><a href="https://github.com/saitberki" target="_blank"><u>Created By: saitberki</u></a> <font color="black"> @github webpage </font></center>
+<center><a href="https://github.com/saitberki" target="_blank">Created By: saitberki</a> <font color="black"> @github webpage </font></center>
