@@ -1,4 +1,4 @@
-<center><h2># CURRENTLY ACTIVE '10' AIRDROP EARNING EXTENSION (10.12.2024)</h2></center>
+<center><h2># CURRENTLY ACTIVE '10' AIRDROP EARNING EXTENSION (10.12.2024) #</h2></center>
 
 <table style="width:85%; text-align:left;">
   <tr>
