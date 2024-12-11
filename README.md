@@ -93,7 +93,7 @@
 </center>
 
 <center>
-<table style="width:85%; text-align:left;">
+<table style="width:100%; text-align:left;">
   <tr>
     <th><h2># How Do Plugins Work?</h2></th>
   </tr>
