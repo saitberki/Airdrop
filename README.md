@@ -92,8 +92,7 @@
 </table>
 </center>
 
-<center>
-<table style="width:100%; text-align:left;">
+<center><table style="width:100%; text-align:left;">
   <tr>
     <center><th><h2># HOW DO PLUGINS WORKS?</th></h2>h2></center>
   </tr>
