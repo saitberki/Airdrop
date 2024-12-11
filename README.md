@@ -101,9 +101,16 @@
   <tr>
     <td> <b>Click</b> On The Plugin's <b>Referral Link,</b> </td>
   </tr>
-  
+
+  <tr>
     <td> <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b> </td>
+  </td>
+
+  <tr>
+
     <td> Go Through The Registration Steps With Your <b>Email Address,</b> </td>
+  </td>
+    
     <td> Go To Your <b>Dashboard</b> And Complete The Tasks To Earn <b>Extra Points,</b> </td>
     <td> Connect Your <b>Discord</b> and <b>Twitter (X)</b> Accounts For a Quick Start!!! <b>Earns Extra Points!</b> </td>
     <td> <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer.</b> </td>
