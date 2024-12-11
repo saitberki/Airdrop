@@ -127,8 +127,19 @@
   </tr>
 </table>
 </center>
+
+<center>
+<table style="width:85%; text-align:left;">
+  <tr>
+    <th><center><h2># STATEMENT</h2></center></th>
+  </tr>
+    
+  <tr>
+    <td> These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing. </td>
+  </tr>
   
-<h2># Statement</h2>
-- These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing.
-- Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately.
-- Good Earnings...
+  <tr>
+    <td> Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately. </td>
+  </tr>
+</table>
+</center>
