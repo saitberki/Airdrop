@@ -119,7 +119,7 @@
   </tr> 
 
   <tr> 
-    <td> # <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer....</b> </td>
+    <td> # <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer........</b> </td>
   </tr>
 
    <tr> 
