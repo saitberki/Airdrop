@@ -95,7 +95,7 @@
 <center>
 <table style="width:100%; text-align:left;">
   <tr>
-    <th># HOW DO PLUGINS WORKS?</th>
+    <center><th># HOW DO PLUGINS WORKS?</th></center>
   </tr>
     
   <tr>
