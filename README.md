@@ -95,7 +95,7 @@
 <center>
 <table style="width:100%; text-align:left;">
   <tr>
-    <th><h2># How Do Plugins Work?</h2></th>
+    <th># HOW D0 PLUGINS WORKS?</th>
   </tr>
     
   <tr>
