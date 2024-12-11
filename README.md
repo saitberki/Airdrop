@@ -98,11 +98,11 @@
   </tr>
     
   <tr>
-    <td> <b>Click</b> On The Plugin's <b>Referral Link,</b> </td>
+    <td> - <b>Click</b> On The Plugin's <b>Referral Link,</b> </td>
   </tr>
   
   <tr>
-    <td> <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b> </td>
+    <td> - <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b> </td>
   </tr>
 
   <tr>
