@@ -10,12 +10,12 @@
     <th>REFERRAL COMISSION</th>
     <th>DOWNLOAD</th>
   </tr>
-    
+     
   <tr>
     <td> 1. </td>
     <td><font color="#ff0000"> Dawn </font> </td>
     <td>Google Chrome</td>
-    <td>Validator Extension</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> %20 Code: 0l65k987 </font> </td>
     <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank"><u>Download</u></a></td> 
   </tr>
@@ -24,7 +24,7 @@
     <td> 2. </td>
     <td><font color="#ff0000"> Distribute AI </font> </td>
     <td>Google Chrome</td>
-    <td>Validator Extension</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> %10 </font></td>
     <td><a href="https://r.distribute.ai/saitberki" target="_blank"><u>Download</u></a></td>  
   </tr>
@@ -33,7 +33,7 @@
     <td> 3. </td>
     <td><font color="#ff0000"> Grass </font> </td>
     <td>Google Chrome</td>
-    <td>Validator Extension</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> Level Method </font></td>
     <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u>Download</u></a></td>
   </tr>
@@ -42,7 +42,7 @@
     <td> 4. </td>
     <td><font color="#ff0000"> Nodepay </font> </td>
     <td>Google Chrome</td>
-    <td>Validator Extension</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> +100 Point + Level </font> </td>
     <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u>Download</u></a></td>
   </tr>
@@ -51,7 +51,7 @@
     <td> 5. </td>
     <td><font color="#ff0000"> Gradient </font> </td>
     <td>Google Chrome</td>
-    <td>Validator Extension</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> 10ref. +5000 Exp </font> </td>
     <td><a href="https://app.gradient.network/signup?code=AHHXL2" target="_blank"><u>Download</u></a></td>    
   </tr>
@@ -60,7 +60,7 @@
     <td> 6. </td>
     <td><font color="#ff0000"> Kaisar (Zero) </font> </td>
     <td>Google Chrome</td>
-    <td>Validator Extension</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> %10 + 1 Ticked </font> </td>
     <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u>Download</u></a></td>
   </tr>
@@ -69,7 +69,7 @@
     <td> 7. </td>
     <td><font color="#ff0000"> Bless </font> </td>
     <td>Google Chrome</td>
-    <td>Validator Extension</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> %10 + Boost </font> </td>
     <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Download</u></a></td>
   </tr>
@@ -78,7 +78,7 @@
     <td> 8. </td>
     <td><font color="#ff0000"> Grid </font> </td>
     <td>Google Chrome</td>
-    <td>Validator Extension</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> %20 </font> </td>
     <td><a href="https://sso.getgrid.ai/registration?referral_code=5ea3924" target="_blank"><u>Download</u></a></td> 
   </tr>
@@ -87,7 +87,7 @@
     <td> 9. </td>
     <td><font color="#ff0000"> OpenLoop </font> </td>
     <td>Google Chrome</td>
-    <td>Validator Extension</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> %20 Code: ol66edfc2f</font> </td>
     <td><a href="https://chromewebstore.google.com/detail/openloopso-sentry-node-ex/effapmdildnpkiaeghlkicpfflpiambm" target="_blank"><u>Download</u></a></td>
   </tr> 
@@ -96,7 +96,7 @@
     <td> 10. </td>
     <td><font color="#ff0000"> Mygate </font> </td>
     <td>Google Chrome</td>
-    <td>Validator Extension</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> %20 </font> </td>
     <td><a href="https://app.mygate.network/login?code=2eBkXR" target="_blank"><u>Download</u></a></td> 
   </tr>
@@ -105,7 +105,7 @@
     <td> 11. </td>
     <td><font color="#ff0000"> Functor </font> </td>
     <td>Google Chrome</td>
-    <td>Validator Extension</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> %20 </font> </td>
     <td><a href="https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm5jd7il3gfpvny1b8axp60jb" target="_blank"><u>Download</u></a></td> 
   </tr>
