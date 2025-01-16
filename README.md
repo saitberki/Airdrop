@@ -67,11 +67,11 @@
   </tr>
 
   <tr>
-    <td><font color="#ff0000"> #8. MeshNode </font> </td>
+    <td><font color="#ff0000"> #8. Grid </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %20 </font> </td>
-    <td><a href="https://app.meshchain.ai?ref=KCXM6R5TDV3M" target="_blank"><u>MeshNode Download</u></a></td> 
+    <td><a href="https://sso.getgrid.ai/registration?referral_code=5ea3924" target="_blank"><u>Grid Download</u></a></td> 
   </tr>
 
   <tr>
@@ -83,11 +83,11 @@
   </tr> 
 
   <tr>
-    <td><font color="#ff0000"> #10. BlockMesh </font> </td>
+    <td><font color="#ff0000"> #10. Mygate </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> Code: oprax4 </font> </td>
-    <td><a href="https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp" target="_blank"><u>BlockMesh Download</u></a></td> 
+    <td><a href="https://app.mygate.network/login?code=undefined](https://app.mygate.network/login?code=2eBkXR" target="_blank"><u>Mygate Download</u></a></td> 
   </tr> 
 </table>
 </center>
