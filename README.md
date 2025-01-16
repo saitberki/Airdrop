@@ -119,7 +119,7 @@
   </tr>
     
   <tr>
-    <td> # <b>Click</b> On The Plugin's <b>Referral Link,</b> </td>
+    <td> # <b>Click</b> On The Plugin's <b>Download Link,</b> </td>
   </tr>
   
   <tr>
