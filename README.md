@@ -128,11 +128,6 @@
 </table>
 </center>
 
-<center><h2># 10 EXTENSION SCREENSHOT #</h2></center>
-<center>
-<img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/Extensions.png?raw=true" alt="Örnek Resim"/>
-</center>
-
 <center>
 <table style="width:85%; text-align:left;">
   <tr>
