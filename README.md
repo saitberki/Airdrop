@@ -3,6 +3,7 @@
 <center>
 <table style="width:85%; text-align:left;">
   <tr>
+    <th>#</th>
     <th>EXTENSION NAME</th>
     <th>PLATFORM</th>
     <th>WORK TYPE</th>
