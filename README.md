@@ -12,7 +12,7 @@
   </tr>
     
   <tr>
-    <td><font color="#ff0000"> 1. </font> </td>
+    <td> 1. </td>
     <td><font color="#ff0000"> Dawn </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
@@ -21,7 +21,8 @@
   </tr>
   
   <tr>
-    <td><font color="#ff0000"> #2. Distribute AI </font> </td>
+    <td> 2. </td>
+    <td><font color="#ff0000"> Distribute AI </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %10 </font></td>
@@ -29,7 +30,8 @@
   </tr>
   
   <tr>
-    <td><font color="#ff0000"> #3. Grass </font> </td>
+    <td> 3. </td>
+    <td><font color="#ff0000"> Grass </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> Level Method </font></td>
@@ -37,7 +39,8 @@
   </tr>
 
   <tr>
-    <td><font color="#ff0000"> #4. Nodepay </font> </td>
+    <td> 4. </td>
+    <td><font color="#ff0000"> Nodepay </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> +100 Point + Level </font> </td>
@@ -45,7 +48,8 @@
   </tr>
 
   <tr>
-    <td><font color="#ff0000"> #5. Gradient </font> </td>
+    <td> 5. </td>
+    <td><font color="#ff0000"> Gradient </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> 10ref. +5000 Exp </font> </td>
@@ -53,7 +57,8 @@
   </tr>
   
   <tr>
-    <td><font color="#ff0000"> #6. Kaisar (Zero) </font> </td>
+    <td> 6. </td>
+    <td><font color="#ff0000"> Kaisar (Zero) </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %10 + 1 Ticked </font> </td>
@@ -61,7 +66,8 @@
   </tr>
 
   <tr>
-    <td><font color="#ff0000"> #7. Bless </font> </td>
+    <td> 7. </td>
+    <td><font color="#ff0000"> Bless </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %10 + Boost </font> </td>
@@ -69,7 +75,8 @@
   </tr>
 
   <tr>
-    <td><font color="#ff0000"> #8. Grid </font> </td>
+    <td> 8. </td>
+    <td><font color="#ff0000"> Grid </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %20 </font> </td>
@@ -77,7 +84,8 @@
   </tr>
 
   <tr>
-    <td><font color="#ff0000"> #9. OpenLoop </font> </td>
+    <td> 9. </td>
+    <td><font color="#ff0000"> OpenLoop </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %20 Code: ol66edfc2f</font> </td>
@@ -85,7 +93,8 @@
   </tr> 
 
   <tr>
-    <td><font color="#ff0000"> #10. Mygate </font> </td>
+    <td> 10. </td>
+    <td><font color="#ff0000"> Mygate </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %20 </font> </td>
@@ -93,7 +102,8 @@
   </tr>
 
   <tr>
-    <td><font color="#ff0000"> #11. Functor </font> </td>
+    <td> 11. </td>
+    <td><font color="#ff0000"> Functor </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %20 </font> </td>
