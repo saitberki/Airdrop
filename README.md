@@ -88,7 +88,15 @@
     <td>Validator</td>
     <td><font color="#3cb371"> %20 </font> </td>
     <td><a href="https://app.mygate.network/login?code=2eBkXR" target="_blank"><u>Mygate Download</u></a></td> 
-  </tr> 
+  </tr>
+
+  <tr>
+    <td><font color="#ff0000"> #11. Functor </font> </td>
+    <td>Google Chrome</td>
+    <td>Validator</td>
+    <td><font color="#3cb371"> %20 </font> </td>
+    <td><a href="https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm5jd7il3gfpvny1b8axp60jb" target="_blank"><u>Functor Download</u></a></td> 
+  </tr>
 </table>
 </center>
 
