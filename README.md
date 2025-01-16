@@ -19,11 +19,11 @@
   </tr>
   
   <tr>
-    <td><font color="#ff0000"> #2. Oasis AI </font> </td>
+    <td><font color="#ff0000"> #2. Distribute AI </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
     <td><font color="#3cb371"> %10 </font></td>
-    <td><a href="https://r.oasis.ai/saitberki" target="_blank"><u>Oasis Download</u></a></td>  
+    <td><a href="https://r.distribute.ai/saitberki" target="_blank"><u>Distribute Download</u></a></td>  
   </tr>
   
   <tr>
@@ -62,7 +62,7 @@
     <td><font color="#ff0000"> #7. Bless </font> </td>
     <td>Google Chrome</td>
     <td>Validator</td>
-    <td><font color="#3cb371"> %10 </font> </td>
+    <td><font color="#3cb371"> %10 + Boost </font> </td>
     <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Bless Download</u></a></td>
   </tr>
 
