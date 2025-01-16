@@ -43,7 +43,7 @@
     <td><font color="#ff0000"> Nodepay </font> </td>
     <td>Google Chrome</td>
     <td><font color="#660099"> Validator Extension </font> </td>
-    <td><font color="#3cb371"> +100 Point + Level </font> </td>
+    <td><font color="#3cb371"> 100 Point + Level </font> </td>
     <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u>Download</u></a></td>
   </tr>
 
