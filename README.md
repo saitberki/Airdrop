@@ -15,7 +15,7 @@
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %20 Code: 0l65k987 </font> </td>
-    <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank"><u>Dawn Download</u></a></td> 
+    <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank"><u>Download</u></a></td> 
   </tr>
   
   <tr>
@@ -23,7 +23,7 @@
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %10 </font></td>
-    <td><a href="https://r.distribute.ai/saitberki" target="_blank"><u>Distribute Download</u></a></td>  
+    <td><a href="https://r.distribute.ai/saitberki" target="_blank"><u>Download</u></a></td>  
   </tr>
   
   <tr>
@@ -31,7 +31,7 @@
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> Level Method </font></td>
-    <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u>Grass Download</u></a></td>
+    <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u>Download</u></a></td>
   </tr>
 
   <tr>
@@ -39,7 +39,7 @@
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> +100 Point + Level </font> </td>
-    <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u>Nodepay Download</u></a></td>
+    <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u>Download</u></a></td>
   </tr>
 
   <tr>
@@ -47,7 +47,7 @@
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> 10ref. +5000 Exp </font> </td>
-    <td><a href="https://app.gradient.network/signup?code=AHHXL2" target="_blank"><u>Gradient Download</u></a></td>    
+    <td><a href="https://app.gradient.network/signup?code=AHHXL2" target="_blank"><u>Download</u></a></td>    
   </tr>
   
   <tr>
@@ -55,7 +55,7 @@
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %10 + 1 Ticked </font> </td>
-    <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u>Kaisar Download</u></a></td>
+    <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u>Download</u></a></td>
   </tr>
 
   <tr>
@@ -63,7 +63,7 @@
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %10 + Boost </font> </td>
-    <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Bless Download</u></a></td>
+    <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Download</u></a></td>
   </tr>
 
   <tr>
@@ -71,7 +71,7 @@
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %20 </font> </td>
-    <td><a href="https://sso.getgrid.ai/registration?referral_code=5ea3924" target="_blank"><u>Grid Download</u></a></td> 
+    <td><a href="https://sso.getgrid.ai/registration?referral_code=5ea3924" target="_blank"><u>Download</u></a></td> 
   </tr>
 
   <tr>
@@ -79,7 +79,7 @@
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %20 Code: ol66edfc2f</font> </td>
-    <td><a href="https://chromewebstore.google.com/detail/openloopso-sentry-node-ex/effapmdildnpkiaeghlkicpfflpiambm" target="_blank"><u>OpenLoop Download</u></a></td>
+    <td><a href="https://chromewebstore.google.com/detail/openloopso-sentry-node-ex/effapmdildnpkiaeghlkicpfflpiambm" target="_blank"><u>Download</u></a></td>
   </tr> 
 
   <tr>
@@ -87,7 +87,7 @@
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %20 </font> </td>
-    <td><a href="https://app.mygate.network/login?code=2eBkXR" target="_blank"><u>Mygate Download</u></a></td> 
+    <td><a href="https://app.mygate.network/login?code=2eBkXR" target="_blank"><u>Download</u></a></td> 
   </tr>
 
   <tr>
@@ -95,7 +95,7 @@
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %20 </font> </td>
-    <td><a href="https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm5jd7il3gfpvny1b8axp60jb" target="_blank"><u>Functor Download</u></a></td> 
+    <td><a href="https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm5jd7il3gfpvny1b8axp60jb" target="_blank"><u>Download</u></a></td> 
   </tr>
 </table>
 </center>
