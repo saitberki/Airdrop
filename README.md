@@ -12,7 +12,8 @@
   </tr>
     
   <tr>
-    <td><font color="#ff0000"> #1. Dawn </font> </td>
+    <td><font color="#ff0000"> 1. </font> </td>
+    <td><font color="#ff0000"> Dawn </font> </td>
     <td>Google Chrome</td>
     <td>Validator Extension</td>
     <td><font color="#3cb371"> %20 Code: 0l65k987 </font> </td>
