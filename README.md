@@ -1,4 +1,4 @@
-<center><h2> CURRENTLY ACTIVE '11' AIRDROP EARNING EXTENSION (16.01.2025) </h2></center>
+<center><h2> CURRENTLY ACTIVE '10' AIRDROP EARNING EXTENSION (16.01.2025) </h2></center>
 
 <center>
 <table style="width:85%; text-align:left;">
@@ -99,15 +99,6 @@
     <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> %20 </font> </td>
     <td><a href="https://app.mygate.network/login?code=2eBkXR" target="_blank"><u>Download</u></a></td> 
-  </tr>
-
-  <tr>
-    <td> 11. </td>
-    <td><font color="#ff0000"> Functor </font> </td>
-    <td>Google Chrome</td>
-    <td><font color="#660099"> Validator Extension </font> </td>
-    <td><font color="#3cb371"> %20 </font> </td>
-    <td><a href="https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm5jd7il3gfpvny1b8axp60jb" target="_blank"><u>Download</u></a></td> 
   </tr>
 </table>
 </center>
