@@ -1,7 +1,7 @@
 <center><h2> CURRENTLY ACTIVE '10' AIRDROP EARNING EXTENSION (16.01.2025) </h2></center>
 
 <center>
-<table style="width:85%; text-align:left;">
+<table style="width:90%; text-align:left;">
   <tr>
     <th>#</th>
     <th>AIRDROP NAME</th>
@@ -14,11 +14,11 @@
      
   <tr>
     <td> 1. </td>
-    <td><font color="#ff0000"> Grass   </font> </td>
+    <td><font color="#ff0000"> Grass </font> </td>
     <td>Listed & In Progress<a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><u>Get Price</u></a></td>
     <td>Chrome</td>
-    <td><font color="#660099">Validator</font> </td>
-    <td><font color="#3cb371">Level Method</font></td>
+    <td><font color="#660099"> Validator </font> </td>
+    <td><font color="#3cb371"> Level Method </font></td>
     <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u>Download</u></a></td>
   </tr>
   
@@ -115,7 +115,7 @@
 </center>
 
 <center>
-<table style="width:85%; text-align:left;">
+<table style="width:90%; text-align:left;">
   <tr>
     <th><center><h2> HOW DO PLUGIN WORKS? </h2></center></th>
   </tr>
