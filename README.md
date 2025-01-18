@@ -1,7 +1,7 @@
 <center><h2> CURRENTLY ACTIVE '10' AIRDROP EARNING EXTENSION (16.01.2025) </h2></center>
 
 <center>
-<table style="width:90%; text-align:left;">
+<table style="width:100%; text-align:left;">
   <tr>
     <th>#</th>
     <th>AIRDROP NAME</th>
@@ -115,7 +115,7 @@
 </center>
 
 <center>
-<table style="width:90%; text-align:left;">
+<table style="width:100%; text-align:left;">
   <tr>
     <th><center><h2> HOW DO PLUGIN WORKS? </h2></center></th>
   </tr>
