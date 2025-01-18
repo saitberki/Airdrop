@@ -130,3 +130,5 @@ These Are Applications That Are Completely For Informational Purposes And Allow 
 <center>
 <a href="https://github.com/saitberki" target="_blank">Created By: saitberki</a> <font color="black"> @github webpage </font>
 </center>
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
