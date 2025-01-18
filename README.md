@@ -73,7 +73,7 @@
   </tr>
 
   <tr>
-    <td> 7. </td>
+    <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/7%20Bless.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Bless </font> </td>
     <td>No Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
@@ -83,7 +83,7 @@
   </tr>
 
   <tr>
-    <td> 8. </td>
+    <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/6%20Kaisar.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Grid </font> </td>
     <td>No Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
@@ -93,7 +93,7 @@
   </tr>
 
   <tr>
-    <td> 9. </td>
+    <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/6%20Kaisar.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> OpenLoop </font> </td>
     <td>No Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
@@ -103,7 +103,7 @@
   </tr> 
 
   <tr>
-    <td> 10. </td>
+    <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/6%20Kaisar.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Mygate </font> </td>
     <td>No Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
