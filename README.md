@@ -35,7 +35,7 @@
   <tr>
     <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/3%20Dawn.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Dawn </font> </td>
-    <td>No Listed - In Progress</td>
+    <td><font color="#ff3030">X</font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> %20 Code: 0l65k987 </font> </td>
@@ -45,7 +45,7 @@
   <tr>
     <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/4%20Distribute.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Distribute AI </font> </td>
-    <td>No Listed - In Progress</td>
+    <td><font color="#ff3030">X</font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> %10 </font></td>
@@ -55,7 +55,7 @@
   <tr>
     <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/5%20Gradient.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Gradient </font> </td>
-    <td>No Listed - In Progress</td>
+    <td><font color="#ff3030">X</font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> 10ref. +5000 Exp </font> </td>
@@ -65,7 +65,7 @@
   <tr>
     <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/6%20Kaisar.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Kaisar (Zero) </font> </td>
-    <td>No Listed - In Progress</td>
+    <td><font color="#ff3030">X</font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> %10 + 1 Ticked </font> </td>
@@ -75,7 +75,7 @@
   <tr>
     <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/7%20Bless.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Bless </font> </td>
-    <td>No Listed - In Progress</td>
+    <td><font color="#ff3030">X</font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> %10 + Boost </font> </td>
@@ -85,7 +85,7 @@
   <tr>
     <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/8%20Grid.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Grid </font> </td>
-    <td>No Listed - In Progress</td>
+    <td><font color="#ff3030">X</font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> %20 </font> </td>
@@ -95,7 +95,7 @@
   <tr>
     <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/9%20Openloop.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> OpenLoop </font> </td>
-    <td>No Listed - In Progress</td>
+    <td><font color="#ff3030">X</font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> %20 Code: ol66edfc2f</font> </td>
@@ -105,7 +105,7 @@
   <tr>
     <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/10%20Mygate.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Mygate </font> </td>
-    <td>No Listed - In Progress</td>
+    <td><font color="#ff3030">X</font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> %20 </font> </td>
