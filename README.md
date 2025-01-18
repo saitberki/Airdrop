@@ -15,7 +15,7 @@
   <tr>
     <td> 1. </td>
     <td><font color="#0000FF"> Grass </font> </td>
-    <td> In Progress & <a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><u>Listed</u></a></td>
+    <td> <a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><u>Listed</u></a> & In Progress </td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> Level Method </font></td>
@@ -25,7 +25,7 @@
   <tr>
     <td> 2. </td>
     <td><font color="#0000FF"> Nodepay </font> </td>
-    <td> In Progress & <a href="https://www.bitget.com/price/node-pay" target="_blank"><u>Listed</u></a></td>
+    <td> <a href="https://www.bitget.com/price/node-pay" target="_blank"><u>Listed</u></a> & In Progress </td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> 100 Point + Level </font> </td>
