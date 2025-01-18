@@ -115,16 +115,17 @@
 </center>
 
 <h2># HOW DO PLUGIN WORKS? </h2>
-- <b>Click</b> On The Plugin's <b>Download Link,</b>
-- <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b> 
-- Go Through The Registration Steps With Your <b>Email Address,</b>
-- Go To Your <b>Dashboard</b> And Complete The Tasks To Earn <b>Extra Points,</b>
-- Connect Your <b>Discord</b> and <b>Twitter (X)</b> Accounts For a Quick Start!!! <b>Earns Extra Points!</b>
-- <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer........</b>
+- <b>Click</b> on the plugin's <b>Download Link,</b>
+- Download the plugin and <b>wait</b> for it to <b>Install,
+- Go through the registration steps with your <b>Email Address,</b>
+- Go to your <b>Dashboard</b> and complete the tasks to earn <b>Extra Points,</b>
+- Connect your <b>Discord</b> and <b>Twitter (X)</b> accounts for a quick start!!! <b>Earns Extra Points!</b>
+- <b>Finally,</b> the add-on works <b>Silently</b> in the background and <b>Earns Points.
+- </b> It does not strain <b>Your Computer........</b>
 - <b>Good Earnings...)))</b>
 
 <h2># STATEMENT </h2>
-These are applications that are completely for informational purposes and allow you to earn <b>Airdrop</b> for free without investing. Since the <b>Airdrop</b> distribution is limited, Download the applications for free and <b>Start Earning</b> immediately.
+These are applications that are completely for informational purposes and allow you to earn <b>Airdrop</b> for free without investing. Since the <b>Airdrop</b> distribution is limited, download the applications for free and <b>Start Earning</b> immediately.
 
 <hr>
 <center>
