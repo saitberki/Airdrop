@@ -31,10 +31,11 @@
     <td><font color="#3cb371"> 100 Point + Level </font> </td>
     <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u>Download</u></a></td>
   </tr>
-  
+
   <tr>
     <td> 3. </td>
     <td><font color="#ff0000"> Dawn </font> </td>
+    <td> In Progress </td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
     <td><font color="#3cb371"> %20 Code: 0l65k987 </font> </td>
@@ -44,6 +45,7 @@
   <tr>
     <td> 4. </td>
     <td><font color="#ff0000"> Distribute AI </font> </td>
+    <td> In Progress </td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
     <td><font color="#3cb371"> %10 </font></td>
@@ -53,6 +55,7 @@
   <tr>
     <td> 5. </td>
     <td><font color="#ff0000"> Gradient </font> </td>
+    <td> In Progress </td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
     <td><font color="#3cb371"> 10ref. +5000 Exp </font> </td>
@@ -62,6 +65,7 @@
   <tr>
     <td> 6. </td>
     <td><font color="#ff0000"> Kaisar (Zero) </font> </td>
+    <td> In Progress </td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
     <td><font color="#3cb371"> %10 + 1 Ticked </font> </td>
@@ -71,6 +75,7 @@
   <tr>
     <td> 7. </td>
     <td><font color="#ff0000"> Bless </font> </td>
+    <td> In Progress </td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
     <td><font color="#3cb371"> %10 + Boost </font> </td>
@@ -80,6 +85,7 @@
   <tr>
     <td> 8. </td>
     <td><font color="#ff0000"> Grid </font> </td>
+    <td> In Progress </td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
     <td><font color="#3cb371"> %20 </font> </td>
@@ -89,6 +95,7 @@
   <tr>
     <td> 9. </td>
     <td><font color="#ff0000"> OpenLoop </font> </td>
+    <td> In Progress </td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
     <td><font color="#3cb371"> %20 Code: ol66edfc2f</font> </td>
@@ -98,6 +105,7 @@
   <tr>
     <td> 10. </td>
     <td><font color="#ff0000"> Mygate </font> </td>
+    <td> In Progress </td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
     <td><font color="#3cb371"> %20 </font> </td>
