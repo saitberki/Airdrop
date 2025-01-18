@@ -120,8 +120,8 @@
 - Go through the registration steps with your <b>Email Address,</b>
 - Go to your <b>Dashboard</b> and complete the tasks to earn <b>Extra Points,</b>
 - Connect your <b>Discord</b> and <b>Twitter (X)</b> accounts for a quick start!!! <b>Earns Extra Points!</b>
-- <b>Finally,</b> the add-on works <b>Silently</b> in the background and <b>Earns Points.
-- </b> It does not strain <b>Your Computer........</b>
+- <b>Finally,</b> the add-on works <b>Silently</b> in the background and <b>Earns Points.</b> 
+- It does not strain <b>Your Computer...</b>
 - <b>Good Earnings...)))</b>
 
 <h2># STATEMENT </h2>
