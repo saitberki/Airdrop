@@ -5,6 +5,7 @@
   <tr>
     <th>#</th>
     <th>AIRDROP NAME</th>
+    <th>TGE STATUS</th>
     <th>PLATFORM</th>
     <th>WORK TYPE</th>
     <th>REFERRAL COMISSION</th>
