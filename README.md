@@ -15,7 +15,7 @@
   <tr>
     <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/1%20Gras.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Grass </font> </td>
-    <td> <a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><u><font color="#00ff00">✓</font>Listed</u></a> & In Progress </td>
+    <td> <a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><font color="#00ff00">✓</font> <u>Listed</u></a> & In Progress </td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> Level Method </font></td>
@@ -25,7 +25,7 @@
   <tr>
     <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/2%20Nodepay.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Nodepay </font> </td>
-    <td> <a href="https://www.bitget.com/price/node-pay" target="_blank"><u><font color="#00ff00">✓</font>Listed</u></a> & In Progress </td>
+    <td> <a href="https://www.bitget.com/price/node-pay" target="_blank"><font color="#00ff00">✓</font> <u>Listed</u></a> & In Progress </td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"> Validator </font> </td>
     <td><font color="#006600"> 100 Point + Level </font> </td>
