@@ -14,7 +14,7 @@
      
   <tr>
     <td> 1. </td>
-    <td><font color="#ff0000"> Grass </font> </td>
+    <td><font color="#0000FF"> Grass </font> </td>
     <td>Listed & In Progress<a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><u> Get Price </u></a></td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
@@ -24,7 +24,7 @@
   
   <tr>
     <td> 2. </td>
-    <td><font color="#ff0000"> Nodepay </font> </td>
+    <td><font color="#0000FF"> Nodepay </font> </td>
     <td> Listed & In Progress <a href="https://www.bitget.com/price/node-pay" target="_blank"><u> Get Price </u></a></td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
@@ -34,7 +34,7 @@
 
   <tr>
     <td> 3. </td>
-    <td><font color="#ff0000"> Dawn </font> </td>
+    <td><font color="#0000FF"> Dawn </font> </td>
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
@@ -44,7 +44,7 @@
 
   <tr>
     <td> 4. </td>
-    <td><font color="#ff0000"> Distribute AI </font> </td>
+    <td><font color="#0000FF"> Distribute AI </font> </td>
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
@@ -54,7 +54,7 @@
 
   <tr>
     <td> 5. </td>
-    <td><font color="#ff0000"> Gradient </font> </td>
+    <td><font color="#0000FF"> Gradient </font> </td>
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
@@ -64,7 +64,7 @@
   
   <tr>
     <td> 6. </td>
-    <td><font color="#ff0000"> Kaisar (Zero) </font> </td>
+    <td><font color="#0000FF"> Kaisar (Zero) </font> </td>
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
@@ -74,7 +74,7 @@
 
   <tr>
     <td> 7. </td>
-    <td><font color="#ff0000"> Bless </font> </td>
+    <td><font color="#0000FF"> Bless </font> </td>
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
@@ -84,7 +84,7 @@
 
   <tr>
     <td> 8. </td>
-    <td><font color="#ff0000"> Grid </font> </td>
+    <td><font color="#0000FF"> Grid </font> </td>
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
@@ -94,7 +94,7 @@
 
   <tr>
     <td> 9. </td>
-    <td><font color="#ff0000"> OpenLoop </font> </td>
+    <td><font color="#0000FF"> OpenLoop </font> </td>
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
@@ -104,7 +104,7 @@
 
   <tr>
     <td> 10. </td>
-    <td><font color="#ff0000"> Mygate </font> </td>
+    <td><font color="#0000FF"> Mygate </font> </td>
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
