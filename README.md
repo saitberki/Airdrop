@@ -17,7 +17,7 @@
     <td><font color="#0000FF"> Grass </font> </td>
     <td> <a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><font color="#00ff00">✓</font> <u>Listed</u></a> & In Progress </td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
-    <td><font color="#FF0033"><center> Validator </center></font> </td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> Level Method </font></td>
     <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u>Download</u></a></td>
   </tr>
@@ -27,7 +27,7 @@
     <td><font color="#0000FF"> Nodepay </font> </td>
     <td> <a href="https://www.bitget.com/price/node-pay" target="_blank"><font color="#00ff00">✓</font> <u>Listed</u></a> & In Progress </td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
-    <td><font color="#FF0033"><center> Validator </center></font> </td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> 100 Point + Level </font> </td>
     <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u>Download</u></a></td>
   </tr>
@@ -37,7 +37,7 @@
     <td><font color="#0000FF"> Dawn </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
-    <td><font color="#FF0033"><center> Validator </center></font> </td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %20 Code: 0l65k987 </font> </td>
     <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank"><u>Download</u></a></td> 
   </tr>
@@ -47,7 +47,7 @@
     <td><font color="#0000FF"> Distribute AI </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
-    <td><font color="#FF0033"><center> Validator </center></font> </td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %10 </font></td>
     <td><a href="https://r.distribute.ai/saitberki" target="_blank"><u>Download</u></a></td>
   </tr>
@@ -57,7 +57,7 @@
     <td><font color="#0000FF"> Gradient </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
-    <td><font color="#FF0033"><center> Validator </center></font> </td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> 10ref. +5000 Exp </font> </td>
     <td><a href="https://app.gradient.network/signup?code=AHHXL2" target="_blank"><u>Download</u></a></td>    
   </tr>
@@ -67,7 +67,7 @@
     <td><font color="#0000FF"> Kaisar (Zero) </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
-    <td><font color="#FF0033"><center> Validator </center></font> </td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %10 + 1 Ticked </font> </td>
     <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u>Download</u></a></td>
   </tr>
@@ -77,7 +77,7 @@
     <td><font color="#0000FF"> Bless </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
-    <td><font color="#FF0033"><center> Validator </center></font> </td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %10 + Boost </font> </td>
     <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Download</u></a></td>
   </tr>
@@ -87,7 +87,7 @@
     <td><font color="#0000FF"> Grid </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
-    <td><font color="#FF0033"><center> Validator </center></font> </td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %20 </font> </td>
     <td><a href="https://sso.getgrid.ai/registration?referral_code=5ea3924" target="_blank"><u>Download</u></a></td> 
   </tr>
@@ -97,7 +97,7 @@
     <td><font color="#0000FF"> OpenLoop </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
-    <td><font color="#FF0033"><center> Validator </center></font> </td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %20 Code: ol66edfc2f</font> </td>
     <td><a href="https://chromewebstore.google.com/detail/openloopso-sentry-node-ex/effapmdildnpkiaeghlkicpfflpiambm" target="_blank"><u>Download</u></a></td>
   </tr> 
@@ -107,7 +107,7 @@
     <td><font color="#0000FF"> Mygate </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
-    <td><font color="#FF0033"><center> Validator </center></font> </td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %20 </font> </td>
     <td><a href="https://app.mygate.network/login?code=2eBkXR" target="_blank"><u>Download</u></a></td> 
   </tr>
