@@ -1,4 +1,4 @@
-<h1>CURRENTLY ACTIVE '10' AIRDROP EARNING EXTENSION 2025</h1>
+<h1># CURRENTLY ACTIVE '10' AIRDROP EARNING EXTENSION 2025</h1>
 
 <center>
 <table style="width:100%; text-align:left;">
