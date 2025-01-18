@@ -124,7 +124,8 @@
 - <b>Good Earnings...)))</b>
 
 <h2># STATEMENT </h2>
-These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing. Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately.
+- These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing.
+- Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately.
 
 <hr>
 <center>
