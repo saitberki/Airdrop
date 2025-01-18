@@ -13,38 +13,38 @@
      
   <tr>
     <td> 1. </td>
-    <td><font color="#ff0000"> Dawn </font> </td>
-    <td>Google Chrome</td>
-    <td><font color="#660099"> Validator Extension </font> </td>
-    <td><font color="#3cb371"> %20 Code: 0l65k987 </font> </td>
-    <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank"><u>Download</u></a></td> 
-  </tr>
-  
-  <tr>
-    <td> 2. </td>
-    <td><font color="#ff0000"> Distribute AI </font> </td>
-    <td>Google Chrome</td>
-    <td><font color="#660099"> Validator Extension </font> </td>
-    <td><font color="#3cb371"> %10 </font></td>
-    <td><a href="https://r.distribute.ai/saitberki" target="_blank"><u>Download</u></a></td>  
-  </tr>
-  
-  <tr>
-    <td> 3. </td>
     <td><font color="#ff0000"> Grass </font> </td>
     <td>Google Chrome</td>
     <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> Level Method </font></td>
     <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u>Download</u></a></td>
   </tr>
-
+  
   <tr>
-    <td> 4. </td>
+    <td> 2. </td>
     <td><font color="#ff0000"> Nodepay </font> </td>
     <td>Google Chrome</td>
     <td><font color="#660099"> Validator Extension </font> </td>
     <td><font color="#3cb371"> 100 Point + Level </font> </td>
     <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u>Download</u></a></td>
+  </tr>
+  
+  <tr>
+    <td> 3. </td>
+    <td><font color="#ff0000"> Dawn </font> </td>
+    <td>Google Chrome</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
+    <td><font color="#3cb371"> %20 Code: 0l65k987 </font> </td>
+    <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank"><u>Download</u></a></td> 
+  </tr>
+
+  <tr>
+    <td> 4. </td>
+    <td><font color="#ff0000"> Distribute AI </font> </td>
+    <td>Google Chrome</td>
+    <td><font color="#660099"> Validator Extension </font> </td>
+    <td><font color="#3cb371"> %10 </font></td>
+    <td><a href="https://r.distribute.ai/saitberki" target="_blank"><u>Download</u></a></td>
   </tr>
 
   <tr>
