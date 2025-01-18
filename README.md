@@ -114,8 +114,6 @@
 </table>
 </center>
 
-<hr>
-
 <h2> HOW DO PLUGIN WORKS? </h2>
 - <b>Click</b> On The Plugin's <b>Download Link,</b>
 - <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b> 
