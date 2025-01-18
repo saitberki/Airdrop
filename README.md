@@ -117,16 +117,16 @@
 <hr>
 
 <h2> HOW DO PLUGIN WORKS? </h2>
-# <b>Click</b> On The Plugin's <b>Download Link,</b>
-# <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b> 
-# Go Through The Registration Steps With Your <b>Email Address,</b>
-# Go To Your <b>Dashboard</b> And Complete The Tasks To Earn <b>Extra Points,</b>
-# Connect Your <b>Discord</b> and <b>Twitter (X)</b> Accounts For a Quick Start!!! <b>Earns Extra Points!</b>
-# <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer........</b>
-# <b>Good Earnings...)))</b>
+- <b>Click</b> On The Plugin's <b>Download Link,</b>
+- <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b> 
+- Go Through The Registration Steps With Your <b>Email Address,</b>
+- Go To Your <b>Dashboard</b> And Complete The Tasks To Earn <b>Extra Points,</b>
+- Connect Your <b>Discord</b> and <b>Twitter (X)</b> Accounts For a Quick Start!!! <b>Earns Extra Points!</b>
+- <b>Finally,</b> The Add-On Works <b>Silently</b> In The Background And <b>Earns Points.</b> It Does Not Strain <b>Your Computer........</b>
+- <b>Good Earnings...)))</b>
 
-<h2> STATEMENT </h2></center>
-These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing. Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately. </td>
+<h2> STATEMENT </h2>
+These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing. Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately.
 
 <hr>
 <center>
