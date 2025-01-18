@@ -1,6 +1,6 @@
 <h1># CURRENTLY ACTIVE '10' AIRDROP EARNING EXTENSION 2025</h1>
 
-<center>
+
 <table style="width:100%; text-align:left;">
   <tr>
     <th>#</th>
@@ -11,7 +11,7 @@
     <th>REFERRAL COMISSION</th>
     <th>DOWNLOAD</th>
   </tr>
-     <center>
+    
   <tr>
     <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/1%20Gras.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Grass </font> </td>
