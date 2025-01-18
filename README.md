@@ -1,6 +1,5 @@
 <h1># CURRENTLY ACTIVE '10' AIRDROP EARNING EXTENSION 2025</h1>
 
-
 <table style="width:100%; text-align:left;">
   <tr>
     <th>#</th>
@@ -19,7 +18,7 @@
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> Level Method </font></td>
-    <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u>Download</u></a></td>
+    <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u><center>Download</center></u></a></td>
   </tr>
   
   <tr>
@@ -29,7 +28,7 @@
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> 100 Point + Level </font> </td>
-    <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u>Download</u></a></td>
+    <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u><center>Download</center></u></a></td>
   </tr>
 
   <tr>
@@ -39,7 +38,7 @@
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %20 Code: 0l65k987 </font> </td>
-    <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank"><u>Download</u></a></td> 
+    <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank"><u><center>Download</center></u></a></td> 
   </tr>
 
   <tr>
@@ -49,7 +48,7 @@
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %10 </font></td>
-    <td><a href="https://r.distribute.ai/saitberki" target="_blank"><u>Download</u></a></td>
+    <td><a href="https://r.distribute.ai/saitberki" target="_blank"><u><center>Download</center></u></a></td>
   </tr>
 
   <tr>
@@ -59,7 +58,7 @@
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> 10ref. +5000 Exp </font> </td>
-    <td><a href="https://app.gradient.network/signup?code=AHHXL2" target="_blank"><u>Download</u></a></td>    
+    <td><a href="https://app.gradient.network/signup?code=AHHXL2" target="_blank"><u><center>Download</center></u></a></td>    
   </tr>
   
   <tr>
@@ -69,7 +68,7 @@
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %10 + 1 Ticked </font> </td>
-    <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u>Download</u></a></td>
+    <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u><center>Download</center></u></a></td>
   </tr>
 
   <tr>
@@ -79,7 +78,7 @@
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %10 + Boost </font> </td>
-    <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Download</u></a></td>
+    <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u><center>Download</center></u></a></td>
   </tr>
 
   <tr>
@@ -89,7 +88,7 @@
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %20 </font> </td>
-    <td><a href="https://sso.getgrid.ai/registration?referral_code=5ea3924" target="_blank"><u>Download</u></a></td> 
+    <td><a href="https://sso.getgrid.ai/registration?referral_code=5ea3924" target="_blank"><u><center>Download</center></u></a></td> 
   </tr>
 
   <tr>
@@ -99,7 +98,7 @@
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %20 Code: ol66edfc2f</font> </td>
-    <td><a href="https://chromewebstore.google.com/detail/openloopso-sentry-node-ex/effapmdildnpkiaeghlkicpfflpiambm" target="_blank"><u>Download</u></a></td>
+    <td><a href="https://chromewebstore.google.com/detail/openloopso-sentry-node-ex/effapmdildnpkiaeghlkicpfflpiambm" target="_blank"><u><center>Download</center></u></a></td>
   </tr> 
 
   <tr>
@@ -109,10 +108,9 @@
     <td><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> %20 </font> </td>
-    <td><a href="https://app.mygate.network/login?code=2eBkXR" target="_blank"><u>Download</u></a></td> 
+    <td><a href="https://app.mygate.network/login?code=2eBkXR" target="_blank"><u><center>Download</center></u></a></td> 
   </tr>
 </table>
-</center>
 
 <h2># HOW DO PLUGIN WORKS? </h2>
 - <b>Click</b> on the plugin's <b>Download Link,</b>
