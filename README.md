@@ -16,7 +16,7 @@
     <td> 1. </td>
     <td><font color="#0000FF"> Grass </font> </td>
     <td> Listed & In Progress <a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><u>Get Price</u></a></td>
-    <td>Chrome</td>
+    <td> <font color="#0033FF"> G </font> <font color="#FF0000"> o </font> <font color="#FF9900"> o </font> <font color="#0033FF"> g </font> <font color="#33CC00"> l </font> <font color="#FF0000"> e </font> </td>
     <td><font color="#660099"> Validator </font> </td>
     <td><font color="#006600"> Level Method </font></td>
     <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u>Download</u></a></td>
