@@ -2,13 +2,13 @@
 
 <table style="width:100%; text-align:left;">
   <tr>
-    <th>#</th>
-    <th>AIRDROP NAME</th>
-    <th>TGE - (Trade Status)</th>
-    <th>PLATFORM</th>
-    <th>WORK TYPE</th>
-    <th>REFERRAL COMISSION</th>
-    <th>DOWNLOAD</th>
+    <th><center>#</center></th>
+    <th><center>AIRDROP NAME</center></th>
+    <th><center>TGE - (Trade Status)</center></th>
+    <th><center>PLATFORM</center></th>
+    <th><center>WORK TYPE</center></th>
+    <th><center>REFERRAL COMISSION</center></th>
+    <th><center>DOWNLOAD</center></th>
   </tr>
     
   <tr>
