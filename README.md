@@ -114,7 +114,6 @@
 </table>
 </center>
 
-<table style="width:100%; text-align:left;">
   <center>
   <tr>
     <th><center><h2> HOW DO PLUGIN WORKS? </h2></center></th>
@@ -150,8 +149,6 @@
 </table>
 </center>
 
-
-<table style="width:100%; text-align:left;">
   <center>
   <tr>
     <th><center><h2> STATEMENT </h2></center></th>
