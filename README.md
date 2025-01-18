@@ -15,7 +15,7 @@
   <tr>
     <td> 1. </td>
     <td><font color="#0000FF"> Grass </font> </td>
-    <td>Listed & In Progress<a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><u>Get Price</u></a></td>
+    <td> Listed & In Progress <a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><u>Get Price</u></a></td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
     <td><font color="#006600"> Level Method </font></td>
