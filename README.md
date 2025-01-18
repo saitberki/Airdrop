@@ -14,6 +14,7 @@
      
   <tr>
     <td> 1. </td>
+    <td> Listed <a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><u>Get Price</u></a></td>
     <td><font color="#ff0000"> Grass </font> </td>
     <td>Google Chrome</td>
     <td><font color="#660099"> Validator Extension </font> </td>
@@ -23,6 +24,7 @@
   
   <tr>
     <td> 2. </td>
+    <td> Listed <a href="https://www.bitget.com/price/node-pay" target="_blank"><u>Get Price</u></a></td>
     <td><font color="#ff0000"> Nodepay </font> </td>
     <td>Google Chrome</td>
     <td><font color="#660099"> Validator Extension </font> </td>
