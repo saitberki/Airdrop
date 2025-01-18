@@ -18,7 +18,7 @@
     <td>Listed & In Progress<a href="https://coinmarketcap.com/currencies/grass/" target="_blank"><u>Get Price</u></a></td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
-    <td><font color="#3cb371"> Level Method </font></td>
+    <td><font color="#006600"> Level Method </font></td>
     <td><a href="https://app.getgrass.io/register/?referralCode=E8kLD5rubOryXQv" target="_blank"><u>Download</u></a></td>
   </tr>
   
@@ -28,7 +28,7 @@
     <td> Listed & In Progress <a href="https://www.bitget.com/price/node-pay" target="_blank"><u>Get Price</u></a></td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
-    <td><font color="#3cb371"> 100 Point + Level </font> </td>
+    <td><font color="#006600"> 100 Point + Level </font> </td>
     <td><a href="https://app.nodepay.ai/register?ref=AZ77erJY2nF1DO2" target="_blank"><u>Download</u></a></td>
   </tr>
 
@@ -38,7 +38,7 @@
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
-    <td><font color="#3cb371"> %20 Code: 0l65k987 </font> </td>
+    <td><font color="#006600"> %20 Code: 0l65k987 </font> </td>
     <td><a href="https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp" target="_blank"><u>Download</u></a></td> 
   </tr>
 
@@ -48,7 +48,7 @@
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
-    <td><font color="#3cb371"> %10 </font></td>
+    <td><font color="#006600"> %10 </font></td>
     <td><a href="https://r.distribute.ai/saitberki" target="_blank"><u>Download</u></a></td>
   </tr>
 
@@ -58,7 +58,7 @@
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
-    <td><font color="#3cb371"> 10ref. +5000 Exp </font> </td>
+    <td><font color="#006600"> 10ref. +5000 Exp </font> </td>
     <td><a href="https://app.gradient.network/signup?code=AHHXL2" target="_blank"><u>Download</u></a></td>    
   </tr>
   
@@ -68,7 +68,7 @@
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
-    <td><font color="#3cb371"> %10 + 1 Ticked </font> </td>
+    <td><font color="#006600"> %10 + 1 Ticked </font> </td>
     <td><a href="https://zero.kaisar.io/register?ref=ozqUvR074" target="_blank"><u>Download</u></a></td>
   </tr>
 
@@ -78,7 +78,7 @@
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
-    <td><font color="#3cb371"> %10 + Boost </font> </td>
+    <td><font color="#006600"> %10 + Boost </font> </td>
     <td><a href="https://bless.network/dashboard?ref=RG3IP0" target="_blank"><u>Download</u></a></td>
   </tr>
 
@@ -88,7 +88,7 @@
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
-    <td><font color="#3cb371"> %20 </font> </td>
+    <td><font color="#006600"> %20 </font> </td>
     <td><a href="https://sso.getgrid.ai/registration?referral_code=5ea3924" target="_blank"><u>Download</u></a></td> 
   </tr>
 
@@ -98,7 +98,7 @@
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
-    <td><font color="#3cb371"> %20 Code: ol66edfc2f</font> </td>
+    <td><font color="#006600"> %20 Code: ol66edfc2f</font> </td>
     <td><a href="https://chromewebstore.google.com/detail/openloopso-sentry-node-ex/effapmdildnpkiaeghlkicpfflpiambm" target="_blank"><u>Download</u></a></td>
   </tr> 
 
@@ -108,7 +108,7 @@
     <td>No Listed - In Progress</td>
     <td>Chrome</td>
     <td><font color="#660099"> Validator </font> </td>
-    <td><font color="#3cb371"> %20 </font> </td>
+    <td><font color="#006600"> %20 </font> </td>
     <td><a href="https://app.mygate.network/login?code=2eBkXR" target="_blank"><u>Download</u></a></td> 
   </tr>
 </table>
