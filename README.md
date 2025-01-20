@@ -132,7 +132,7 @@
     </tr>
 
  <tr>
-    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/12%20Meshchain.PNG?raw=true" alt=""/> </td>
+    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/13%20Teneo.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Teneo </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
     <td><center><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></center></td>
