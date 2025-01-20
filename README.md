@@ -1,5 +1,6 @@
 <h1>CURRENTLY ACTIVE FREE AIRDROP EARNING EXTENSION 2025</h1>
-<h2>What's This?<h2>
+
+<h2>What's This?</h2>
 
 <table style="width:100%; text-align:left;">
   <tr>
