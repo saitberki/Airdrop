@@ -2,7 +2,7 @@
 
 <center><h1>CURRENTLY ACTIVE FREE AIRDROP EARNING EXTENSION 2025</h1></center>
 
-<center> <table style="width:100%; text-align:left;">
+<center>
   <tr>
     <th><center>#</center></th>
     <th><center>AIRDROP NAME</center></th>
