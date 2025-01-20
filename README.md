@@ -1,6 +1,6 @@
-<center><img src="https://github.com/saitberki/Airdrop/blob/main/Airdrop%20Banner.png?raw=true" alt=""/></center>
+<img src="https://github.com/saitberki/Airdrop/blob/main/Airdrop%20Banner.png?raw=true" alt=""/>
 
-<center><h1>CURRENTLY ACTIVE FREE AIRDROP EARNING EXTENSION 2025</h1></center>
+<h1>CURRENTLY ACTIVE FREE AIRDROP EARNING EXTENSION 2025</h1>
 
 <table style="width:120%">
   <tr>
