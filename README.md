@@ -140,6 +140,7 @@
 - We call the period during which we collect these points the <b>Airdrop Season.</b>
 - Our points are converted into the relevant <b>Token or Coin</b> in parallel with the listing of the project.
 - These rewards are transferred to our respective <b>Wallet.</b>
+- Your earnings are finally concluded with the <b>Stock Exchange</b> or different evaluation methods you choose.
 
 <h2>How Do Plugin Works? </h2>
 - <b>Click</b> on the plugin's <b>Download Link,</b> Download the plugin and <b>wait</b> for it to <b>Install,
