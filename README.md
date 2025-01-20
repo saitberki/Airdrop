@@ -1,6 +1,7 @@
 <h1>CURRENTLY ACTIVE FREE AIRDROP EARNING EXTENSION 2025</h1>
 
 <h2>What's This?</h2>
+New coin or token bets need users like us before they are listed on the stock exchange. Reward points <b>(Airdrop Points)</b> are given to participants at certain periods. We earn these points through <b>Validator (Pluggin)</b> or <b>Game-Based</b> content. We call the period during which we collect these points the <b>Airdrop Season.</b> Our points are converted into the relevant <b>Token or Coin</b> in parallel with the listing of the project. These rewards are transferred to our respective <b>Wallet.</b>
 
 <table style="width:100%; text-align:left;">
   <tr>
