@@ -112,7 +112,7 @@
   </tr>
   
   <tr>
-    <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/10%20Mygate.PNG?raw=true" alt=""/> </td>
+    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/11%20Depined.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Depined </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
     <td><center><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></center></td>
@@ -120,6 +120,17 @@
     <td><font color="#006600"> %20 Code: 9tQiK4ripGY7 </font> </td>
     <td><a href="https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc" target="_blank"><u><center>Download</center></u></a></td> 
     </tr>
+
+ <tr>
+    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/11%20Depined.PNG?raw=true" alt=""/> </td>
+    <td><font color="#0000FF"> Meshchain </font> </td>
+    <td><font color="#ff3030">X </font> Listed - In Progress</td>
+    <td><center><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></center></td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
+    <td><font color="#006600"> %20 </font> </td>
+    <td><a href="https://app.meshchain.ai?ref=KCXM6R5TDV3M" target="_blank"><u><center>Download</center></u></a></td> 
+    </tr>
+    
 </table>
 
 <h2># HOW DO PLUGIN WORKS? </h2>
