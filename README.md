@@ -2,8 +2,7 @@
 
 <center><h1>CURRENTLY ACTIVE FREE AIRDROP EARNING EXTENSION 2025</h1></center>
 
-<center><table style="width:100%; text-align:left;">
-  
+<center><table>
   <tr>
     <th><center>#</center></th>
     <th><center>AIRDROP NAME</center></th>
@@ -143,8 +142,7 @@
     <td><font color="#006600"> %20 Code: sdBhYHi </font> </td>
     <td><a href="https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm" target="_blank"><u><center>Download</center></u></a></td> 
     </tr>   
-</table style="width:100%; text-align:left;">
-</center>
+</table></center>
 
 <h2>What's This?</h2>
 - New coin or token bets need users like us before they are listed on the stock exchange.
