@@ -1,4 +1,5 @@
-<h1># CURRENTLY ACTIVE FREE AIRDROP EARNING EXTENSION 2025</h1>
+<h1>CURRENTLY ACTIVE FREE AIRDROP EARNING EXTENSION 2025</h1>
+<h2>What's This?<h2>
 
 <table style="width:100%; text-align:left;">
   <tr>
@@ -133,7 +134,7 @@
     
 </table>
 
-<h2># HOW DO PLUGIN WORKS? </h2>
+<h2>HOW DO PLUGIN WORKS? </h2>
 - <b>Click</b> on the plugin's <b>Download Link,</b> Download the plugin and <b>wait</b> for it to <b>Install,
 - Go through the registration steps with your <b>Email Address,</b>
 - Go to your <b>Dashboard</b> and complete the tasks to earn <b>Extra Points,</b>
@@ -141,7 +142,7 @@
 - <b>Finally,</b> the add-on works <b>Silently</b> in the background and <b>Earns Points.</b> 
 - It does not strain <b>Your Computer...</b> <b>Good Earnings...)))</b>
 
-<h2># STATEMENT </h2>
+<h2>STATEMENT </h2>
 These are applications that are completely for informational purposes and allow you to earn <b>Airdrop</b> for free without investing. Since the <b>Airdrop</b> distribution is limited, download the applications for free and <b>Start Earning</b> immediately.
 
 <hr>
