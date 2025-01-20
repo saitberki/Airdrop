@@ -167,4 +167,8 @@ These are applications that are completely for informational purposes and allow 
 <a href="https://github.com/saitberki" target="_blank">Created By: saitberki</a> <font color="black"> @github webpage </font>
 </center>
 
+<center>
+<a href='https://www.free-counters.org/'>free-counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=95b9f5a89a9aa009c4662b205128af7a11aea757'></script> <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1290287/t/9"></script>
+</center>
+
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
