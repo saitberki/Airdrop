@@ -141,7 +141,7 @@
     <td><a href="https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm" target="_blank"><u><center>Download</center></u></a></td> 
     </tr>
 
-    <tr>
+  <tr>
     <td> <img src="https://github.com/saitberki/Airdrop/blob/main/14%20spark.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Spark </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
