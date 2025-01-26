@@ -1,4 +1,4 @@
-<center><h1>#CURRENTLY ACTIVE FREE AIRDROP EARNING EXTENSION 2025#</h1></center>
+<center><h1>#CURRENTLY ACTIVE CHROME APPLICATIONS THAT GIVE AIRDROP POINTS#</h1></center>
 
 <table style="width:120%">
   <tr>
