@@ -143,12 +143,22 @@
 
   <tr>
     <td> <img src="https://github.com/saitberki/Airdrop/blob/main/14%20spark.PNG?raw=true" alt=""/> </td>
-    <td><font color="#0000FF"> Spark </font> </td>
+    <td><font color="#0000FF"> Spark Chain </font> </td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
     <td><center><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></center></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
-    <td><font color="#006600"> Level Method </font> </td>
+    <td><font color="#006600"> Tier Method </font> </td>
     <td><a href="https://sparkchain.ai/register/?r=46730414" target="_blank"><u><center>Download</center></u></a></td> 
+    </tr>
+
+  <tr>
+    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/14%20spark.PNG?raw=true" alt=""/> </td>
+    <td><font color="#0000FF"> Minion Lab </font> </td>
+    <td><font color="#ff3030">X </font> Listed - In Progress</td>
+    <td><center><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></center></td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
+    <td><font color="#006600"> Tier Method </font> </td>
+    <td><a href="https://app.minionlab.ai/?referralCode=GYylLsjb"><u><center>Download</center></u></a></td> 
     </tr>   
 </table>
 
