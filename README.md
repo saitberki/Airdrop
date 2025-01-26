@@ -158,7 +158,7 @@
     <td><center><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></center></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
     <td><font color="#006600"> Tier Method </font> </td>
-    <td><a href="https://app.minionlab.ai/?referralCode=GYylLsjb"><u><center>Download</center></u></a></td> 
+    <td><a href="https://app.minionlab.ai/?referralCode=GYylLsjb" target="_blank"><u><center>Download</center></u></a></td>
     </tr>   
 </table>
 
