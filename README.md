@@ -1,5 +1,3 @@
-<center><h2># CURRENTLY ACTIVE CHROME APPLICATIONS THAT GIVE AIRDROP POINTS #</h2></center>
-
 <table style="width:120%">
   <tr>
     <th><center>#</center></th>
