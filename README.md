@@ -1,4 +1,4 @@
-<table style="width:120%">
+<table style="width:100%">
   <tr>
     <th><center>#</center></th>
     <th><center>AIRDROP NAME</center></th>
