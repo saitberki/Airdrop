@@ -176,10 +176,10 @@
     </tr>
 </table>
 
-<h2>Youtube Video</h2>
+<h2>#Youtube Video</h2>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/sAuokDoapzQ?si=HNIPqgsaUG_VpCUx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-<h2>What's This?</h2>
+<h2>#What's This?</h2>
 - New coin or token bets need users like us before they are listed on the stock exchange.
 - Reward points <b>(Airdrop Points)</b> are given to participants at certain periods. 
 - We earn these points through <b>Validator (Pluggin)</b> or <b>Game-Based</b> content.
@@ -188,7 +188,7 @@
 - These rewards are transferred to our respective <b>Wallet.</b>
 - Your earnings are finally concluded with the <b>Stock Exchange</b> or different evaluation methods you choose.
 
-<h2>How Do Plugin Works? </h2>
+<h2>#How Do Plugin Works? </h2>
 - <b>Click</b> on the plugin's <b>Download Link,</b> Download the plugin and <b>wait</b> for it to <b>Install,
 - Go through the registration steps with your <b>Email Address,</b>
 - Go to your <b>Dashboard</b> and complete the tasks to earn <b>Extra Points,</b>
@@ -196,7 +196,7 @@
 - <b>Finally,</b> the add-on works <b>Silently</b> in the background and <b>Earns Points.</b> 
 - It does not strain <b>Your Computer...</b> <b>Good Earnings...)))</b>
 
-<h2>Statement</h2>
+<h2>#Statement</h2>
 These are applications that are completely for informational purposes and allow you to earn <b>Airdrop</b> for free without investing. Since the <b>Airdrop</b> distribution is limited, download the applications for free and <b>Start Earning</b> immediately.
 
 <hr>
