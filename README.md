@@ -36,7 +36,7 @@
   <tr>
     <td> <img src="https://github.com/saitberki/Airdrop/blob/main/Grid.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Grid </font></td>
-    <td>⭐⭐</td>
+    <td>⭐⭐⭐</td>
     <td>Airdrops In Progress</td>
     <td><center><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></center></td>
     <td><font color="#FF0033"><center>Validator</center></font> </td>
