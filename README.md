@@ -53,9 +53,8 @@
 </table>
 
 <h2>#Extensions Screenshoot</h2>
-<center>
-  <img src="https://github.com/saitberki/Airdrop/blob/main/Extension%20Screenshot.png?raw=true" alt=""/>
-</center>
+<img src="https://github.com/saitberki/Airdrop/blob/main/Extension%20Screenshot.png?raw=true" alt=""/>
+
 
 <h2>#What's This?</h2>
 - New coin or token bets need users like us before they are listed on the stock exchange.
@@ -75,10 +74,13 @@
 - It does not strain <b>Your Computer...</b> <b>Good Earnings...)))</b>
 
 <h2>#Statement</h2>
-- These are applications that are completely for informational purposes and allow you to earn <b>Airdrop</b> for free without investing. - Since the <b>Airdrop</b> distribution is limited, download the applications for free and <b>Start Earning</b> immediately.
+- These are applications that are completely for informational purposes and allow you to earn <b>Airdrop</b> for free without investing.
+- Since the <b>Airdrop</b> distribution is limited, download the applications for free and <b>Start Earning</b> immediately.
 
 <hr>
+<center>
 <a href="https://github.com/saitberki" target="_blank">Created By: saitberki</a> <font color="black"> @github webpage </font>
+</center>
 
 <center>
 <a href='https://www.free-counters.org/'>Free Visitor Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=95b9f5a89a9aa009c4662b205128af7a11aea757'></script> <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1290287/t/9"></script>
