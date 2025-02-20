@@ -11,7 +11,7 @@
   </tr>
   
  <tr>
-    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/14%20spark.PNG?raw=true" alt=""/> </td>
+    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/Spark.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Spark Chain </font></td>
     <td>⭐⭐⭐</td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
@@ -22,7 +22,7 @@
     </tr>
 
   <tr>
-    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/15%20minionlab.PNG?raw=true" alt=""/> </td>
+    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/Minionlab.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Minion Lab </font></td>
     <td>⭐⭐⭐</td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
@@ -33,7 +33,7 @@
     </tr>     
 
   <tr>
-    <td> <img src="https://github.com/saitberki/EARN_FREE_AIRDROP/blob/main/8%20Grid.PNG?raw=true" alt=""/> </td>
+    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/Grid.PNG?raw=true" alt=""/> </td>
     <td><font color="#0000FF"> Grid </font></td>
     <td>⭐⭐</td>
     <td><font color="#ff3030">X </font> Listed - In Progress</td>
