@@ -1,5 +1,5 @@
 <h2>#New List!! Starter Opportunity!! Join Now!!</h2>
-<center>
+
 <table style="width:130%">
   <tr>
     <th><center>#</center></th>
@@ -51,7 +51,6 @@
     <td><a href="https://mainnet.capfizz.com/register?ref=MRWNDE" target="_blank"><u><center>Download</center></u></a></td> 
 </tr>
 </table>
-</center>
 
 <h2>#Extensions Screenshoot</h2>
 <center><img src="https://github.com/saitberki/Airdrop/blob/main/Extension%20Screenshot.png?raw=true" alt=""/></center>
