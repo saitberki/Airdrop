@@ -7,7 +7,7 @@
     <th><center>TGE - (TRADE STATUS)</center></th>
     <th><center>PLATFORM</center></th>
     <th><center>WORK TYPE</center></th>
-    <th><center>REFERRAL COMISSION</center></th>
+    <th><center>REFERRAL</center></th>
     <th><center>DOWNLOAD</center></th>
   </tr>
   
