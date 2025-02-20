@@ -56,7 +56,7 @@
 </tr>
 </table>
 
-<img src="https://github.com/saitberki/Airdrop/blob/main/Extension%20Screenshot.png?raw=true" alt=""/>
+<center><img src="https://github.com/saitberki/Airdrop/blob/main/Extension%20Screenshot.png?raw=true" alt=""/></center>
 
 <h2>#What's This?</h2>
 - New coin or token bets need users like us before they are listed on the stock exchange.
