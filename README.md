@@ -42,21 +42,7 @@
     <td><font color="#006600"> %20 </font> </td>
     <td><a href="https://sso.getgrid.ai/registration?referral_code=5ea3924" target="_blank"><u><center>Download</center></u></a></td> 
   </tr>
-  
-  <tr>
-    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/11%20Depined.PNG?raw=true" alt=""/> </td>
-    <td><font color="#0000FF"> Depined </font></td>
-    <td>⭐⭐</td>
-    <td><font color="#ff3030">X </font> Listed - In Progress</td>
-    <td><center><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></center></td>
-    <td><font color="#FF0033"><center>Validator</center></font> </td>
-    <td><font color="#006600"> %20 Code: 9tQiK4ripGY7 </font> </td>
-    <td><a href="https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc" target="_blank"><u><center>Download</center></u></a></td> 
-    </tr>
 </table>
-
-<h2>#Youtube Video</h2>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sAuokDoapzQ?si=HNIPqgsaUG_VpCUx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 <h2>#What's This?</h2>
 - New coin or token bets need users like us before they are listed on the stock exchange.
