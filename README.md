@@ -43,6 +43,17 @@
     <td><font color="#006600"> %10 </font> </td>
     <td><a href="https://sso.getgrid.ai/registration?referral_code=5ea3924" target="_blank"><u><center>Download</center></u></a></td> 
   </tr>
+
+ <tr>
+    <td> <img src="https://github.com/saitberki/Airdrop/blob/main/Capfizz.png?raw=true" alt=""/> </td>
+    <td><font color="#0000FF"> Capfizz </font></td>
+    <td>⭐⭐⭐</td>
+    <td>Airdrops In Progress</td>
+    <td><center><font color="#0033FF"> G </font><font color="#FF0000"> o </font><font color="#FF9900"> o </font><font color="#0033FF"> g </font><font color="#33CC00"> l </font><font color="#FF0000"> e </font></center></td>
+    <td><font color="#FF0033"><center>Validator</center></font> </td>
+    <td><font color="#006600"> %10 </font> </td>
+    <td><a href="https://mainnet.capfizz.com/register?ref=MRWNDE" target="_blank"><u><center>Download</center></u></a></td> 
+</tr>
 </table>
 
 <h2>#What's This?</h2>
