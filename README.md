@@ -1,5 +1,5 @@
 <h2>#New List!! Starter Opportunity!! Join Now!!</h2>
-<table style="width:130%">
+<center><table style="width:130%">
   <tr>
     <th><center>#</center></th>
     <th><center>AIRDROP NAME</center></th>
@@ -49,7 +49,8 @@
     <td><font color="#006600"> %10 </font> </td>
     <td><a href="https://mainnet.capfizz.com/register?ref=MRWNDE" target="_blank"><u><center>Download</center></u></a></td> 
 </tr>
-</table>
+</table></center>
+
 <h2>#Extensions Screenshoot</h2>
 <center><img src="https://github.com/saitberki/Airdrop/blob/main/Extension%20Screenshot.png?raw=true" alt=""/></center>
 
