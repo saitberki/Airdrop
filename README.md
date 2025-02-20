@@ -55,7 +55,7 @@
     <td><a href="https://mainnet.capfizz.com/register?ref=MRWNDE" target="_blank"><u><center>Download</center></u></a></td> 
 </tr>
 </table>
-<h2>Extensions Screenshoot</h2>
+<h2>#Extensions Screenshoot</h2>
 <center><img src="https://github.com/saitberki/Airdrop/blob/main/Extension%20Screenshot.png?raw=true" alt=""/></center>
 
 <h2>#What's This?</h2>
