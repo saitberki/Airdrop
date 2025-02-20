@@ -75,7 +75,7 @@
 - It does not strain <b>Your Computer...</b> <b>Good Earnings...)))</b>
 
 <h2>#Statement</h2>
-These are applications that are completely for informational purposes and allow you to earn <b>Airdrop</b> for free without investing. Since the <b>Airdrop</b> distribution is limited, download the applications for free and <b>Start Earning</b> immediately.
+- These are applications that are completely for informational purposes and allow you to earn <b>Airdrop</b> for free without investing. - Since the <b>Airdrop</b> distribution is limited, download the applications for free and <b>Start Earning</b> immediately.
 
 <hr>
 <center>
