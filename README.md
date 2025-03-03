@@ -87,3 +87,5 @@
 </center>
 
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr"><a href="https://t.co/a3C1mA9BWz">https://t.co/a3C1mA9BWz</a><br>Earn with distribute ai!! Increase your earnings with Desktop and Browser application. 10% referral earnings and for more... Join now !!!🚀🚀🚀<br>Earn Airdrop Points... <a href="https://t.co/laLRshuoR4">pic.twitter.com/laLRshuoR4</a></p>&mdash; Sait Berki (@BerkiSait52105) <a href="https://twitter.com/BerkiSait52105/status/1895873432098832763?ref_src=twsrc%5Etfw">March 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
